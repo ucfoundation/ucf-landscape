@@ -1,68 +1,68 @@
 global:
-  name: LF AI Interactive Landscape
-  short_name: LFAI
-  repo: lfai/lfai-landscape
-  website: 'https://landscape.lfai.foundation'
-  short_domain: l.lfai.foundation
-  company_url: 'https://lfai.foundation'
-  email: info@lfai.foundation
-  membership: LF AI Member Company
+  name: Urban Computing Interactive Landscape
+  short_name: UCF
+  repo: ucf/ucf-landscape
+  website: 'https://landscape.ucf.foundation'
+  short_domain: l.ucf.foundation
+  company_url: 'https://ucf.foundation'
+  email: info@ucf.foundation
+  membership: UCF Member Company
   slack_channel: T08PSQ7BQ/BEC09SE3V/3xuzW9rz4RQog9g9iUhnSxgI
   meta:
-    title: LF AI Landscape
+    title: UCF Landscape
     fb_admin: alex.contini.94
     description: 'Filter and sort by GitHub stars, funding, commits, contributors, hq location, and tweets'
-    twitter: '@LFAI_Foundation'
+    twitter: '@ucfdn'
     google_site_verification: x3QPMhFwxg1ZMS9tlhhgwIJKokbEkt1zByMLMXiqnds
     ms_validate: 3AF9FFA12CCC3C49C0ABA71CCA222665
   flags:
     cncf_sandbox: false
-    companies: LF AI Member Company
+    companies: UCF Member Company
 twitter:
-  search: landscape.lfai.foundation
-  url: 'https://landscape.lfai.foundation'
-  text: LF AI Landscape from @LFAI_Foundation
+  search: landscape.ucf.foundation
+  url: 'https://landscape.ucf.foundation'
+  text: Urban Computing Landscape from @ucfdn
 relation:
-  label: LFAI Relation
-  url: lfai
+  label: UCF Relation
+  url: ucf
   values:
     - id: hosted
-      label: LFAI Projects
+      label: UCF Projects
       children:
         - id: graduated
-          label: Graduated LFAI Projects
-          prefix: LF AI
+          label: Graduated UCF Projects
+          prefix: UCF
           tag: Graduated
           color: '#3570af'
           big_picture_order: 1
-          big_picture_label: LFAI Graduated
+          big_picture_label: UCF Graduated
           big_picture_color: 'rgb(24,54,114)'
         - id: incubating
-          label: Incubating LFAI Projects
-          prefix: LF AI
+          label: Incubating UCF Projects
+          prefix: UCF
           tag: Incubating
           color: '#00cbff'
           big_picture_order: 2
-          big_picture_label: LFAI Incubating
+          big_picture_label: UCF Incubating
           big_picture_color: 'rgb(83, 113, 189)'
     - id: company
-      label: LFAI Members
+      label: UCF Members
       tag: Company
       big_picture_order: 3
     - id: member
-      label: LFAI Member Products/Projects
-      tag: LFAI Member
+      label: UCF Member Products/Projects
+      tag: UCF Member
     - id: false
-      label: Non-LFAI Member Products/Projects
+      label: Non-ucf Member Products/Projects
       url: 'no'
 membership:
   Premium:
-    name: LFAI
+    name: ucf
     label: Premier Member
     funding: Premier
     is_large: true
   General:
-    name: LFAI
+    name: ucf
     label: Member
     funding: General
   linux_foundation:
@@ -74,7 +74,7 @@ membership:
     funding: 'No'
 home:
   header: >
-    <h1>LF AI Foundation Interactive Landscape</h1> The LF AI Foundation landscape (<a target="_blank" href="images/landscape.png">png</a>, <a target="_blank"
+    <h1>Urban Computing Foundation Interactive Landscape</h1> The UCF landscape (<a target="_blank" href="images/landscape.png">png</a>, <a target="_blank"
     href="images/landscape.pdf">pdf</a>) is dynamically generated below. It is modeled after the <a href="http://landscape.cncf.io">CNCF landscape</a> and based
     on the same open source code.
   footer: |
@@ -100,8 +100,8 @@ big_picture:
     tab_index: -1
     url: landscape
     name: Landscape
-    title: Linux Foundation AI Landscape
-    fullscreen_header: See the interactive landscape at l.lfai.foundation
+    title: Urban Computing Foundation Landscape
+    fullscreen_header: See the interactive landscape at l.uc.foundation
     method: getGroupedItemsForCncfBigPicture
     size:
       width: 1115
@@ -221,7 +221,7 @@ big_picture:
             width: 90
             height: 90
           - type: title
-            title: l.lfai.foundation
+            title: l.ucf.foundation
             top: 99
             left: 9
             font_size: 12
@@ -236,8 +236,8 @@ big_picture:
             right: 5
             top: 55
 test:
-  header: LF AI Foundation Interactive Landscape
-  section: Graduated LFAI Projects
+  header: Urban Computing Foundation Interactive Landscape
+  section: Graduated UCF Projects
   logo: acumos.svg
 update_server:
   ip: 147.75.106.211
