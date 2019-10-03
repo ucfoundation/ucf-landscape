@@ -15,6 +15,7 @@ global:
     twitter: '@ucfdn'
     google_site_verification: x3QPMhFwxg1ZMS9tlhhgwIJKokbEkt1zByMLMXiqnds
     ms_validate: 3AF9FFA12CCC3C49C0ABA71CCA222665
+    membership: UCF Members
   flags:
     cncf_sandbox: false
     companies: UCF Members
@@ -57,14 +58,18 @@ relation:
       url: 'no'
 membership:
   Premium:
-    name: ucf
+    name: UCF
     label: Premier Member
     funding: Premier
     is_large: true
   General:
-    name: ucf
+    name: UCF
     label: Member
     funding: General
+  Associate:
+    name: UCF
+    label: Member
+    funding: Associate
   linux_foundation:
     name: LF
     label: Project
