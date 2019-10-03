@@ -1,10 +1,10 @@
-[![Dependency Status](https://img.shields.io/david/lfai/lfai-landscape.svg?style=flat-square)](https://david-dm.org/lfai/lfai-landscape) [![Netlify Status](https://api.netlify.com/api/v1/badges/a9f0f6cd-9dc2-44c1-baa1-98f288904d6b/deploy-status)](https://app.netlify.com/sites/lfailandscape/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/913b4e04-e1f2-46fe-bef8-b79f6204ec2e/deploy-status)](https://app.netlify.com/sites/ucf-landscape/deploys)
 
-# Linux Foundation Artificial Intelligence (LFAI) Landscape
+# Urban Computing Foundation Landscape
 
-![LFAI Landscape Logo](https://landscape.lfdl.io/images/left-logo.svg)
+![UCF Landscape Logo](https://landscape.uc.foundation/images/left-logo.svg)
 
-- [LFAI Landscape](#cloud-native-landscape)
+- [UCF Landscape](#cloud-native-landscape)
   * [Current Version](#current-version)
   * [Interactive Version](#interactive-version)
   * [New Entries](#new-entries)
@@ -20,20 +20,20 @@
   * [Vulnerability reporting](#vulnerability-reporting)
   * [Adjusting the Landscape View](#adjusting-the-landscape-view)
 
-This landscape is intended as a map to explore open source artificial intelligence (AI), machine learning (ML), and deep learning (DL) projects, and also shows the member companies of the LF Deep Learning Foundation. It is modelled after the Cloud Native Computing Foundation (CNCF) [landscape](https://landscape.cncf.io) and based on the same open source code. 
+This landscape is intended as a map to explore open source urban computing and related technology projects, and also shows the member companies of the Urban Computing Foundation. It is modeled after the Cloud Native Computing Foundation (CNCF) [landscape](https://landscape.cncf.io) and based on the same open source code.
 
 ## Current Version
 
-[![LFAI Landscape](https://landscape.lfai.foundation/images/landscape.png)](https://landscape.lfai.foundation/images/landscape.png)
+[![UCF Landscape](https://landscape.uc.foundation/images/landscape.png)](https://landscape.uc.foundation/images/landscape.png)
 
 ## Interactive Version
 
-Please see [landscape.lfai.foundation](https://landscape.lfai.foundation).
+Please see [landscape.uc.foundation](https://landscape.uc.foundation).
 
 ## New Entries
 
 * Projects must be open source and hosted on or mirrored to GitHub.
-* AI, ML, and DL projects with at least 300 GitHub stars that clearly fit in an existing category are generally included. Put the project in the single category where it best fits.
+* Urban computing projects with at least 300 GitHub stars that clearly fit in an existing category are generally included. Put the project in the single category where it best fits.
 * We are unlikely to create a new category for projects as we'd rather find the best home with the current options.
 * Your project or company needs a logo and the logo needs to include the name.
 * Crunchbase organization should be the company or organization that controls the software. That is normally the owner of the trademark, whether or not a trademark has been formally filed.
@@ -47,7 +47,7 @@ Netlify will generate a staging server for you to preview your updates. Please c
 The following rules will produce the most readable and attractive logos:
 
 1. We require SVGs, as they are smaller, display correctly at any scale, and work on all modern browsers. If you only have the logo in another vector format (like AI or EPS), please open an issue and we'll convert it to an SVG for you, or you can often do it yourself at https://cloudconvert.com/. Note that you may need to zip your file to attach it to a GitHub issue. Please note that we require pure SVGs and will reject SVGs that contain embedded PNGs since they have the same problems of being bigger and not scaling seamlessly. We also require that SVGs convert fonts to outlines so that they will render correctly whether or not a font is installed. See [Proper SVGs](#proper-svgs) below.
-1. When multiple variants exist, use stacked (not horizontal) logos. For example, we use the second column (stacked), not the first (horizontal), of CNCF project [logos](https://github.com/cncf/artwork/#cncf-incubating-logos).
+1. When multiple variants exist, use stacked (not horizontal) logos. For example, we use the second column (stacked), not the first (horizontal), of UCF project [logos](https://github.com/ucfoundation/artwork/a).
 1. Don't use reversed logos (i.e., with a non-white, non-transparent background color). If you only have a reversed logo, create an issue with it attached and we'll produce a non-reversed version for you.
 1. Logos must include the company, product or project name in English. It's fine to also include words from another language. If you don't have a version of your logo with the name in it, please open an issue and we'll create one for you (and please specify the font).
 1. Match the item name to the English words in the logos. So an Acme Rocket logo that shows "Rocket" should have product name "Rocket", while if the logo shows "Acme Rocket", the product name should be "Acme Rocket". Otherwise, logos looks out of place when you sort alphabetically.
@@ -88,13 +88,13 @@ The update server enhances the source data with the fetched data and saves the r
 As explained at https://bestpractices.coreinfrastructure.org/:
 >The Linux Foundation (LF) Core Infrastructure Initiative (CII) Best Practices badge is a way for Free/Libre and Open Source Software (FLOSS) projects to show that they follow best practices. Projects can voluntarily self-certify, at no cost, by using this web application to explain how they follow each best practice. The CII Best Practices Badge is inspired by the many badges available to projects on GitHub. Consumers of the badge can quickly assess which FLOSS projects are following best practices and as a result are more likely to produce higher-quality secure software.
 
-The interactive landscape displays the status (or non-existence) of a badge for each open-source project. There's also a feature not available through the filter bar to see all items [with](https://landscape.lfdl.io/bestpractices=yes) and [without](https://landscape.lfai.foundation/bestpractices=no) badges. Note that a passing badge is a requirement for projects to [graduate](https://github.com/cncf/toc/blob/master/process/graduation_criteria.adoc) in the CNCF.
+The interactive landscape displays the status (or non-existence) of a badge for each open-source project. There's also a feature not available through the filter bar to see all items [with](https://landscape.uc.foundation/bestpractices=yes) and [without](https://landscape.uc.foundation/bestpractices=no) badges. Note that a passing badge is a requirement for projects to [graduate](https://github.com/cncf/toc/blob/master/process/graduation_criteria.adoc) in the UCF.
 
 ## Non-Updated Items
 
-We generally remove open source projects that have not had a commit in over 3 months. Note that for projects not hosted on GitHub, we need them to mirror to GitHub to fetch updates, and we try to work with projects when their mirrors are broken. Here is view of projects sorted by last update: https://landscape.lfai.foundation/grouping=no&license=open-source&sort=latest-commit
+We generally remove open source projects that have not had a commit in over 3 months. Note that for projects not hosted on GitHub, we need them to mirror to GitHub to fetch updates, and we try to work with projects when their mirrors are broken. Here is view of projects sorted by last update: https://landscape.uc.foundation/grouping=no&license=open-source&sort=latest-commit
 
-We generally remove closed source products when they have not tweeted in over 3 months. This doesn't apply to Chinese companies without Twitter accounts, since Twitter is blocked there. Here is a view of products sorted by last tweet: https://landscape.lfai.foundation/grouping=no&license=not-open-source&sort=latest-tweet
+We generally remove closed source products when they have not tweeted in over 3 months. This doesn't apply to Chinese companies without Twitter accounts, since Twitter is blocked there. Here is a view of products sorted by last tweet: https://landscape.uc.foundation/grouping=no&license=not-open-source&sort=latest-tweet
 
 Items that have been removed can apply to be re-added using the regular New Entries criteria above.
 
@@ -106,10 +106,10 @@ Everything else is under the Apache License, Version 2.0, except for project and
 
 ## Formats
 
-The LFAI Landscape is available in these formats:
+The UCF Landscape is available in these formats:
 
-* [PNG](https://landscape.lfai.foundation/images/landscape.png)
-* [PDF](https://landscape.lfai.foundation/images/landscape.pdf)
+* [PNG](https://landscape.uc.foundation/images/landscape.png)
+* [PDF](https://landscape.uc.foundation/images/landscape.pdf)
 
 ## Installation
 
@@ -117,7 +117,7 @@ You can install and run locally with the [install directions](INSTALL.md). It's 
 
 ## Vulnerability reporting
 
-Please open an [issue](https://github.com/cncf/landscape/issues/new) or, for sensitive information, email info@cncf.io.
+Please open an [issue](https://github.com/ucfoundation/landscape/issues/new) or, for sensitive information, email info@cncf.io.
 
 ## Adjusting the Landscape View
 The file src/components/MainContent2.js describes the key elements of a
@@ -128,7 +128,7 @@ and Development, Orchesteration & Management, Runtime,  Provisioning, Cloud,
 
 All these elements should have `top`, `left`, `width` and `height` properties to
 position them. `rows` and `cols` specify how much columns or rows we expect in a
-given horizontal or vertical section. 
+given horizontal or vertical section.
 
 When we see that those elements can not fit the sections, we need to either increase
 the width of all the horizontal sections, or increase height and amount of rows
