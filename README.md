@@ -1,4 +1,4 @@
-[![Dependency Status](https://img.shields.io/david/lfai/lfai-landscape.svg?style=flat-square)](https://david-dm.org/lfai/lfai-landscape) [![Netlify Status](https://api.netlify.com/api/v1/badges/a9f0f6cd-9dc2-44c1-baa1-98f288904d6b/deploy-status)](https://app.netlify.com/sites/lfailandscape/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/913b4e04-e1f2-46fe-bef8-b79f6204ec2e/deploy-status)](https://app.netlify.com/sites/ucf-landscape/deploys)
 
 # Urban Computing Foundation Landscape
 
