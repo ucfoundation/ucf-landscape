@@ -68,7 +68,6 @@ landscape:
             homepage_url: 'https://www.h2o.ai/'
             repo_url: 'https://github.com/h2oai/h2o-3'
             logo: h2o-ai.svg
-            twitter: 'https://twitter.com/h2oai'
             crunchbase: 'https://www.crunchbase.com/organization/h2o-2'
           - item:
             name: Kubeflow
@@ -96,7 +95,6 @@ landscape:
             homepage_url: 'https://www.seldon.io/'
             repo_url: 'https://github.com/SeldonIO/seldon-core'
             logo: seldon.svg
-            twitter: 'https://twitter.com/seldon_io'
             crunchbase: 'https://www.crunchbase.com/organization/seldon'
           - item:
             name: Vowpal Wabbit
@@ -176,7 +174,6 @@ landscape:
             homepage_url: 'https://xgboost.ai/'
             repo_url: 'https://github.com/dmlc/xgboost'
             logo: xgboost.svg
-            twitter: 'https://twitter.com/XGBoostProject'
             crunchbase: 'https://www.crunchbase.com/organization/xgboost'
           - item:
             name: xLearn
@@ -315,7 +312,6 @@ landscape:
             homepage_url: 'https://github.com/OpenMined/PySyft'
             repo_url: 'https://github.com/OpenMined/PySyft'
             logo: pysyft.svg
-            twitter: 'https://twitter.com/openminedorg'
             crunchbase: 'https://www.crunchbase.com/organization/openmined'
       - subcategory:
         name: Tool
@@ -373,7 +369,6 @@ landscape:
             homepage_url: 'https://dotmesh.com/'
             repo_url: 'https://github.com/dotmesh-io/dotmesh'
             logo: dotmesh.svg
-            twitter: 'https://twitter.com/getdotmesh'
             crunchbase: 'https://www.crunchbase.com/organization/dotscience'
           - item:
             name: DVC
@@ -394,7 +389,6 @@ landscape:
             homepage_url: 'https://docs.quiltdata.com/'
             repo_url: 'https://github.com/quiltdata/quilt'
             logo: quiltdata.svg
-            twitter: 'https://twitter.com/quiltdata'
             crunchbase: 'https://www.crunchbase.com/organization/quilt-data'
       - subcategory:
         name: Store & Format
@@ -467,7 +461,6 @@ landscape:
             homepage_url: 'https://www.pilosa.com/'
             repo_url: 'https://github.com/pilosa/pilosa'
             logo: pilosa.svg
-            twitter: 'https://twitter.com/slothware'
             crunchbase: 'https://www.crunchbase.com/organization/pilosa'
       - subcategory:
         name: Pipeline Management
@@ -563,7 +556,6 @@ landscape:
             homepage_url: 'https://www.featuretools.com/'
             repo_url: 'https://github.com/featuretools/featuretools'
             logo: featuretools.svg
-            twitter: 'https://twitter.com/feature_labs'
             crunchbase: 'https://www.crunchbase.com/organization/feature-labs'
       - subcategory:
         name: Visualization
@@ -770,7 +762,6 @@ landscape:
             homepage_url: 'https://rasa.com/'
             repo_url: 'https://github.com/RasaHQ/rasa'
             logo: rasa.svg
-            twitter: 'https://www.twitter.com/Rasa_HQ'
             crunchbase: 'https://www.crunchbase.com/organization/rasa'
           - item:
             name: spaCy
@@ -936,7 +927,6 @@ landscape:
             homepage_url: 'https://pipeline.ai/'
             repo_url: 'https://github.com/PipelineAI/pipeline'
             logo: pipelineai.svg
-            twitter: 'https://twitter.com/PipelineAI'
             crunchbase: 'https://www.crunchbase.com/organization/pipelineio'
           - item:
             name: Tensorflow Privacy
@@ -1253,44 +1243,36 @@ landscape:
           - item:
             name: Amdocs
             homepage_url: 'https://www.amdocs.com/'
-            stock_ticker: DOX
             logo: amdocs.svg
             twitter: 'https://twitter.com/Amdocs'
             crunchbase: 'https://www.crunchbase.com/organization/amdocs'
           - item:
             name: AT&T
             homepage_url: 'https://www.att.com/'
-            stock_ticker: T
             logo: att.svg
-            twitter: 'https://twitter.com/ATT'
             crunchbase: 'https://www.crunchbase.com/organization/at-t'
           - item:
             name: Baidu
             homepage_url: 'https://www.baidu.com/'
-            stock_ticker: BIDU
             logo: baidu.svg
             twitter: 'https://twitter.com/Baidu_Inc'
             crunchbase: 'https://www.crunchbase.com/organization/baidu'
           - item:
             name: Ericsson
             homepage_url: 'https://www.ericsson.com/en'
-            stock_ticker: ERIC
             logo: ericsson.svg
-            twitter: 'https://twitter.com/ericsson'
             crunchbase: 'https://www.crunchbase.com/organization/ericsson'
           - item:
             name: Huawei
             homepage_url: 'https://www.huawei.com/en/'
             stock_ticker: null
             logo: huawei.svg
-            twitter: 'https://twitter.com/Huawei'
             crunchbase: 'https://www.crunchbase.com/organization/huawei'
           - item:
             name: Nokia
             homepage_url: 'https://www.nokia.com'
             stock_ticker: NOK
             logo: nokia.svg
-            twitter: 'https://twitter.com/nokia'
             crunchbase: 'https://www.crunchbase.com/organization/nokia'
           - item:
             name: Tech Mahindra
@@ -1326,7 +1308,6 @@ landscape:
           - item:
             name: Ciena
             homepage_url: 'https://www.ciena.com/'
-            stock_ticker: CIEN
             logo: ciena.svg
             twitter: 'https://twitter.com/ciena'
             crunchbase: 'https://www.crunchbase.com/organization/ciena'
@@ -1335,7 +1316,6 @@ landscape:
             homepage_url: 'https://www.didiglobal.com'
             stock_ticker: null
             logo: didi.svg
-            twitter: 'https://twitter.com/DidiChuxing'
             crunchbase: 'https://www.crunchbase.com/organization/didi-dache'
           - item:
             name: Gemini Open Cloud
@@ -1345,7 +1325,6 @@ landscape:
           - item:
             name: IBM
             homepage_url: 'https://www.ibm.com/us-en/?ar=1'
-            stock_ticker: IBM
             logo: ibm.svg
             twitter: 'https://twitter.com/ibm'
             crunchbase: 'https://www.crunchbase.com/organization/ibm'
@@ -1354,18 +1333,14 @@ landscape:
             homepage_url: 'https://www.orange.com/en/home'
             stock_ticker: ORAN
             logo: orange.svg
-            twitter: 'https://twitter.com/orange'
             crunchbase: 'https://www.crunchbase.com/organization/orange'
           - item:
             name: Red Hat
             homepage_url: 'https://www.redhat.com/en'
-            stock_ticker: RHT
             logo: redhat.svg
-            twitter: 'https://twitter.com/redhat'
             crunchbase: 'https://www.crunchbase.com/organization/red-hat'
           - item:
             name: SyLabs
             homepage_url: 'https://sylabs.io/'
             logo: sylabs.svg
-            twitter: 'https://twitter.com/SylabsIO'
             crunchbase: 'https://www.crunchbase.com/organization/sylabs'
