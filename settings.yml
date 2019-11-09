@@ -18,7 +18,6 @@ global:
     ms_validate: 3AF9FFA12CCC3C49C0ABA71CCA222665
     membership: UCF Members
   flags:
-    cncf_sandbox: false
     companies: UCF Members
 twitter:
   search: landscape.ucf.foundation
@@ -108,7 +107,6 @@ big_picture:
     name: Landscape
     title: Urban Computing Foundation Landscape
     fullscreen_header: See the interactive landscape at l.uc.foundation
-    method: getGroupedItemsForCncfBigPicture
     size:
       width: 1115
       height: 770
