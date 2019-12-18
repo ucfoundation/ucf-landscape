@@ -57,11 +57,15 @@ relation:
       label: Non-ucf Member Products/Projects
       url: 'no'
 membership:
-  Premier:
+  Premium:
     name: UCF
     label: Premier Member
     funding: Premier
     is_large: true
+  General:
+    name: UCF
+    label: Member
+    funding: General
   Associate:
     name: UCF
     label: Member
