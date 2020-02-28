@@ -1,192 +1,126 @@
 landscape:
   - category:
-    name: Machine Learning
+    name: Mapping
     subcategories:
       - subcategory:
-        name: Framework
+        name: Map Data
         items:
           - item:
-            name: Accord.NET
-            homepage_url: 'http://accord-framework.net/'
-            repo_url: 'https://github.com/accord-net/framework'
-            logo: accord-net.svg
+            name: OpenStreetMaps
+            homepage_url: 'https://www.openstreetmap.org/about'
+            repo_url: 'https://github.com/openstreetmap/operations'
+            logo: urbancomputingfoundation.svg
+            twitter: 'https://twitter.com/openstreetmap'
+            crunchbase: 'https://www.crunchbase.com/organization/openstreetmap'
+          - item:
+            name: NaturalEarth
+            homepage_url: 'https://www.naturalearthdata.com/'
+            repo_url: 'https://github.com/nvkelso/natural-earth-vector'
+            logo: urbancomputingfoundation.svg
             twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/accord-net-framework-project'
-          - item:
-            name: FATE
-            homepage_url: 'https://www.fedai.org/'
-            repo_url: 'https://github.com/FederatedAI/FATE'
-            logo: fedai.svg
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/webank'
-          - item:
-            name: LightGBM
-            homepage_url: 'https://github.com/Microsoft/LightGBM'
-            repo_url: 'https://github.com/Microsoft/LightGBM'
-            logo: lightgbm.svg
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/microsoft'
-          - item:
-            name: Mahout
-            homepage_url: 'https://mahout.apache.org/'
-            repo_url: 'https://github.com/apache/mahout'
-            logo: 'https://svn.apache.org/repos/asf/comdev/project-logos/originals/mahout.svg'
-            twitter: 'https://twitter.com/ApacheMahout'
-            crunchbase: 'https://www.crunchbase.com/organization/apache'
-          - item:
-            name: ML.net
-            homepage_url: 'https://dotnet.microsoft.com/apps/machinelearning-ai/ml-dotnet'
-            repo_url: 'https://github.com/dotnet/machinelearning'
-            logo: ml-net.svg
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/microsoft'
-          - item:
-            name: Ray
-            homepage_url: 'https://bair.berkeley.edu/blog/2018/01/09/ray/'
-            repo_url: 'https://github.com/ray-project/ray'
-            logo: ray.svg
-            crunchbase: 'https://www.crunchbase.com/organization/university-of-california-berkeley'
+            crunchbase: 'https://www.crunchbase.com/organization/earth-data'
       - subcategory:
-        name: Platform
+        name: Map Services
         items:
           - item:
-            name: Apache SystemML
-            homepage_url: 'https://systemml.apache.org/'
-            repo_url: 'https://github.com/apache/systemml'
-            logo: apache-system-ml.svg
-            twitter: 'https://twitter.com/ApacheSystemML'
-            crunchbase: 'https://www.crunchbase.com/organization/apache'
-          - item:
-            name: AX
-            homepage_url: 'https://ax.dev/'
-            repo_url: 'https://github.com/facebook/Ax'
-            logo: ax.svg
+            name: NextZen Vector Tile Service
+            homepage_url: 'https://www.nextzen.org/'
+            repo_url: 'https://github.com/tilezen/vector-datasource'
+            logo: urbancomputingfoundation.svg
             twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/facebook'
+            crunchbase: 'https://www.crunchbase.com/organization/mapzen'
           - item:
-            name: H2o.ai
-            homepage_url: 'https://www.h2o.ai/'
-            repo_url: 'https://github.com/h2oai/h2o-3'
-            logo: h2o-ai.svg
-            crunchbase: 'https://www.crunchbase.com/organization/h2o-2'
+            name: MapServer Suite
+            homepage_url: 'https://mapserver.org/'
+            repo_url: 'https://github.com/mapserver/docs'
+            logo: urbancomputingfoundation.svg
+            twitter: 'https://twitter.com/mapserver_osgeo'
+            crunchbase: 'https://www.crunchbase.com/organization/mapserver'
           - item:
-            name: Kubeflow
-            homepage_url: 'https://www.kubeflow.org/'
-            repo_url: 'https://github.com/kubeflow/kubeflow'
-            logo: kubeflow.svg
-            twitter: 'https://twitter.com/kubeflow'
-            crunchbase: 'https://www.crunchbase.com/organization/google'
-          - item:
-            name: MLFlow
-            homepage_url: 'https://mlflow.org/'
-            repo_url: 'https://github.com/mlflow/mlflow'
-            logo: mlflow.svg
+            name: Pelias Search
+            homepage_url: 'https://www.mapzen.com/products/search/geocoding/'
+            repo_url: 'https://github.com/pelias/pelias'
+            logo: urbancomputingfoundation.svg
             twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/databricks'
+            crunchbase: 'https://www.crunchbase.com/organization/mapzen'                                                                             
           - item:
-            name: PredictionIO
-            homepage_url: 'https://predictionio.apache.org/'
-            repo_url: 'https://github.com/apache/predictionio'
-            logo: apache-predictionio.svg
-            twitter: 'https://twitter.com/ApachePIO'
-            crunchbase: 'https://www.crunchbase.com/organization/apache'
+            name: Valhalla
+            homepage_url: 'https://www.mapzen.com/products/mobility/turn-by-turn/'
+            repo_url: 'https://github.com/valhalla/valhalla'
+            logo: urbancomputingfoundation.svg
+            twitter: 'https://twitter.com/valhallarouting'
+            crunchbase: 'https://www.crunchbase.com/organization/mapzen'
           - item:
-            name: Seldon
-            homepage_url: 'https://www.seldon.io/'
-            repo_url: 'https://github.com/SeldonIO/seldon-core'
-            logo: seldon.svg
-            crunchbase: 'https://www.crunchbase.com/organization/seldon'
+            name: Hyperion Map3
+            homepage_url: 'https://www.hyn.space/'
+            repo_url: 'https://github.com/hyperion-hyn/map3'
+            logo: urbancomputingfoundation.svg
+            twitter: 'https://twitter.com/hyperionhyn'
+            crunchbase: 'https://www.crunchbase.com/organization/hyperion-one-map'
           - item:
-            name: Vowpal Wabbit
-            homepage_url: 'https://github.com/VowpalWabbit/vowpal_wabbit/wiki'
-            repo_url: 'https://github.com/VowpalWabbit/vowpal_wabbit'
-            logo: vowpal-wabbit.svg
+            name: GeoServer
+            homepage_url: 'http://geoserver.org/'
+            repo_url: 'https://github.com/geoserver/geoserver'
+            logo: urbancomputingfoundation.svg
             twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/microsoft'
+            crunchbase: 'https://www.crunchbase.com/organization/geoserver'
       - subcategory:
-        name: Library
+        name: Map Rendering
         items:
           - item:
-            name: CatBoost
-            homepage_url: 'https://catboost.ai'
-            repo_url: 'https://github.com/catboost/catboost'
-            logo: catboost.svg
-            twitter: 'https://twitter.com/catboostml'
-            crunchbase: 'https://www.crunchbase.com/organization/yandex'
+            name: mapbox-gl-js
+            homepage_url: 'https://docs.mapbox.com/mapbox-gl-js/api/'
+            repo_url: 'https://github.com/mapbox/mapbox-gl-js'
+            logo: urbancomputingfoundation.svg
+            twitter: 'https://twitter.com/Mapbox'
+            crunchbase: 'https://www.crunchbase.com/organization/mapbox'
           - item:
-            name: MLlib
-            homepage_url: 'https://spark.apache.org/mllib/'
-            repo_url: 'https://github.com/apache/spark'
-            logo: mllib.svg
+            name: Tangram
+            homepage_url: 'https://www.mapzen.com/products/tangram/'
+            repo_url: 'https://github.com/tangrams/tangram'
+            logo: urbancomputingfoundation.svg
             twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/apache'
+            crunchbase: 'https://www.crunchbase.com/organization/mapzen'
           - item:
-            name: mlpack
-            homepage_url: 'http://www.mlpack.org/'
-            repo_url: 'https://github.com/mlpack/mlpack'
-            logo: mlpack.svg
+            name: Tangram ES
+            homepage_url: 'https://github.com/tangrams/tangram-es'
+            repo_url: 'https://github.com/tangrams/tangram-es'
+            logo: urbancomputingfoundation.svg
             twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/georgia-institute-of-technology'
+            crunchbase: 'https://www.crunchbase.com/organization/mapzen'
           - item:
-            name: Nilearn
-            homepage_url: 'https://nilearn.github.io/'
-            repo_url: 'https://github.com/nilearn/nilearn'
-            logo: nilearn.svg
+            name: Leaflet
+            homepage_url: 'https://leafletjs.com/'
+            repo_url: 'https://github.com/Leaflet/Leaflet'
+            logo: urbancomputingfoundation.svg
+            twitter: 'https://twitter.com/leafletjs'
+            crunchbase: 'https://www.crunchbase.com/organization/leaflet-5700'
+          - item:
+            name: OpenLayers
+            homepage_url: 'https://www.osgeo.org/projects/openlayers/'
+            repo_url: 'https://github.com/openlayers/openlayers'
+            logo: openlayers.svg
+            twitter: 'https://twitter.com/openlayers'
+            crunchbase: 'https://www.crunchbase.com/organization/openlayers'
+          - item:
+            name: Cessium
+            homepage_url: 'https://cesiumjs.org/'
+            repo_url: 'https://github.com/CesiumGS/cesium'
+            logo: urbancomputingfoundation.svg
+            twitter: 'https://twitter.com/CesiumJS'
+            crunchbase: 'https://www.crunchbase.com/organization/cesium'
+          - item:
+            name: harp.gl
+            homepage_url: 'https://www.harp.gl/'
+            repo_url: 'https://github.com/heremaps/harp.gl'
+            logo: urbancomputingfoundation.svg
             twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/inria'
-          - item:
-            name: OpenNN
-            homepage_url: 'http://www.opennn.net/'
-            repo_url: 'https://github.com/Artelnics/OpenNN'
-            logo: opennn.svg
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/artelnics'
-          - item:
-            name: SciKit-learn
-            homepage_url: 'https://scikit-learn.org/stable/'
-            repo_url: 'https://github.com/scikit-learn/scikit-learn'
-            logo: sci-kit-learn.svg
-            twitter: 'https://twitter.com/scikit_learn'
-            crunchbase: 'https://www.crunchbase.com/organization/numfocus'
-          - item:
-            name: Shogun
-            homepage_url: 'https://www.shogun.ml/'
-            repo_url: 'https://github.com/shogun-toolbox/shogun'
-            logo: shogun.svg
-            twitter: 'https://twitter.com/ShogunML'
-            crunchbase: 'https://www.crunchbase.com/organization/numfocus'
-          - item:
-            name: Sonnet
-            homepage_url: 'https://sonnet.dev/'
-            repo_url: 'https://github.com/deepmind/Sonnet'
-            logo: sonnet.svg
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/google'
-          - item:
-            name: TransmogrifAI
-            homepage_url: 'https://transmogrif.ai/'
-            repo_url: 'https://github.com/salesforce/TransmogrifAI'
-            logo: transmogrifai.svg
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/salesforce'
-          - item:
-            name: XGBoost
-            homepage_url: 'https://xgboost.ai/'
-            repo_url: 'https://github.com/dmlc/xgboost'
-            logo: xgboost.svg
-            crunchbase: 'https://www.crunchbase.com/organization/xgboost'
-          - item:
-            name: xLearn
-            homepage_url: 'https://xlearn-doc.readthedocs.io/en/latest/index.html'
-            repo_url: 'https://github.com/aksnzhy/xlearn'
-            logo: xlearn.svg
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/xlearn-open-source-projects'
+            crunchbase: 'https://www.crunchbase.com/organization/harp-gl'
   - category:
-    name: Deep Learning
+    name: Data Visualization
     subcategories:
       - subcategory:
-        name: Framework
+        name: Data
         items:
           - item:
             name: Apache SINGA
@@ -1308,8 +1242,3 @@ landscape:
             homepage_url: 'https://www.redhat.com/en'
             logo: redhat.svg
             crunchbase: 'https://www.crunchbase.com/organization/red-hat'
-          - item:
-            name: SyLabs
-            homepage_url: 'https://sylabs.io/'
-            logo: sylabs.svg
-            crunchbase: 'https://www.crunchbase.com/organization/sylabs'
