@@ -6,22 +6,41 @@ landscape:
         name: Map Data
         items:
           - item:
-            name: OpenStreetMaps
-            homepage_url: 'https://www.openstreetmap.org/about'
-            repo_url: 'https://github.com/openstreetmap/operations'
-            logo: urbancomputingfoundation.svg
-            twitter: 'https://twitter.com/openstreetmap'
-            crunchbase: 'https://www.crunchbase.com/organization/openstreetmap'
-          - item:
             name: NaturalEarth
             homepage_url: 'https://www.naturalearthdata.com/'
             repo_url: 'https://github.com/nvkelso/natural-earth-vector'
             logo: urbancomputingfoundation.svg
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/earth-data'
+          - item:
+            name: OpenStreetMaps
+            homepage_url: 'https://www.openstreetmap.org/about'
+            repo_url: 'https://github.com/openstreetmap/operations'
+            logo: urbancomputingfoundation.svg
+            twitter: 'https://twitter.com/openstreetmap'
+            crunchbase: 'https://www.crunchbase.com/organization/openstreetmap'
       - subcategory:
         name: Map Services
         items:
+          - item:
+            name: GeoServer
+            homepage_url: 'http://geoserver.org/'
+            repo_url: 'https://github.com/geoserver/geoserver'
+            logo: urbancomputingfoundation.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/geoserver'
+          - item:
+            name: Hyperion Map3
+            homepage_url: 'https://www.hyn.space/'
+            repo_url: 'https://github.com/hyperion-hyn/map3'
+            logo: urbancomputingfoundation.svg
+            crunchbase: 'https://www.crunchbase.com/organization/hyperion-one-map'
+          - item:
+            name: MapServer Suite
+            homepage_url: 'https://mapserver.org/'
+            repo_url: 'https://github.com/mapserver/docs'
+            logo: urbancomputingfoundation.svg
+            crunchbase: 'https://www.crunchbase.com/organization/mapserver'
           - item:
             name: NextZen Vector Tile Service
             homepage_url: 'https://www.nextzen.org/'
@@ -30,19 +49,12 @@ landscape:
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/mapzen'
           - item:
-            name: MapServer Suite
-            homepage_url: 'https://mapserver.org/'
-            repo_url: 'https://github.com/mapserver/docs'
-            logo: urbancomputingfoundation.svg
-            twitter: 'https://twitter.com/mapserver_osgeo'
-            crunchbase: 'https://www.crunchbase.com/organization/mapserver'
-          - item:
             name: Pelias Search
             homepage_url: 'https://www.mapzen.com/products/search/geocoding/'
             repo_url: 'https://github.com/pelias/pelias'
             logo: urbancomputingfoundation.svg
             twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/mapzen'                                                                             
+            crunchbase: 'https://www.crunchbase.com/organization/mapzen'
           - item:
             name: Valhalla
             homepage_url: 'https://www.mapzen.com/products/mobility/turn-by-turn/'
@@ -50,58 +62,9 @@ landscape:
             logo: urbancomputingfoundation.svg
             twitter: 'https://twitter.com/valhallarouting'
             crunchbase: 'https://www.crunchbase.com/organization/mapzen'
-          - item:
-            name: Hyperion Map3
-            homepage_url: 'https://www.hyn.space/'
-            repo_url: 'https://github.com/hyperion-hyn/map3'
-            logo: urbancomputingfoundation.svg
-            twitter: 'https://twitter.com/hyperionhyn'
-            crunchbase: 'https://www.crunchbase.com/organization/hyperion-one-map'
-          - item:
-            name: GeoServer
-            homepage_url: 'http://geoserver.org/'
-            repo_url: 'https://github.com/geoserver/geoserver'
-            logo: urbancomputingfoundation.svg
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/geoserver'
       - subcategory:
         name: Map Rendering
         items:
-          - item:
-            name: mapbox-gl-js
-            homepage_url: 'https://docs.mapbox.com/mapbox-gl-js/api/'
-            repo_url: 'https://github.com/mapbox/mapbox-gl-js'
-            logo: urbancomputingfoundation.svg
-            twitter: 'https://twitter.com/Mapbox'
-            crunchbase: 'https://www.crunchbase.com/organization/mapbox'
-          - item:
-            name: Tangram
-            homepage_url: 'https://www.mapzen.com/products/tangram/'
-            repo_url: 'https://github.com/tangrams/tangram'
-            logo: urbancomputingfoundation.svg
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/mapzen'
-          - item:
-            name: Tangram ES
-            homepage_url: 'https://github.com/tangrams/tangram-es'
-            repo_url: 'https://github.com/tangrams/tangram-es'
-            logo: urbancomputingfoundation.svg
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/mapzen'
-          - item:
-            name: Leaflet
-            homepage_url: 'https://leafletjs.com/'
-            repo_url: 'https://github.com/Leaflet/Leaflet'
-            logo: urbancomputingfoundation.svg
-            twitter: 'https://twitter.com/leafletjs'
-            crunchbase: 'https://www.crunchbase.com/organization/leaflet-5700'
-          - item:
-            name: OpenLayers
-            homepage_url: 'https://www.osgeo.org/projects/openlayers/'
-            repo_url: 'https://github.com/openlayers/openlayers'
-            logo: openlayers.svg
-            twitter: 'https://twitter.com/openlayers'
-            crunchbase: 'https://www.crunchbase.com/organization/openlayers'
           - item:
             name: Cessium
             homepage_url: 'https://cesiumjs.org/'
@@ -116,6 +79,38 @@ landscape:
             logo: urbancomputingfoundation.svg
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/harp-gl'
+          - item:
+            name: Leaflet
+            homepage_url: 'https://leafletjs.com/'
+            repo_url: 'https://github.com/Leaflet/Leaflet'
+            logo: urbancomputingfoundation.svg
+            crunchbase: 'https://www.crunchbase.com/organization/leaflet-5700'
+          - item:
+            name: mapbox-gl-js
+            homepage_url: 'https://docs.mapbox.com/mapbox-gl-js/api/'
+            repo_url: 'https://github.com/mapbox/mapbox-gl-js'
+            logo: urbancomputingfoundation.svg
+            crunchbase: 'https://www.crunchbase.com/organization/mapbox'
+          - item:
+            name: OpenLayers
+            homepage_url: 'https://www.osgeo.org/projects/openlayers/'
+            repo_url: 'https://github.com/openlayers/openlayers'
+            logo: openlayers.svg
+            crunchbase: 'https://www.crunchbase.com/organization/openlayers'
+          - item:
+            name: Tangram
+            homepage_url: 'https://www.mapzen.com/products/tangram/'
+            repo_url: 'https://github.com/tangrams/tangram'
+            logo: urbancomputingfoundation.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/mapzen'
+          - item:
+            name: Tangram ES
+            homepage_url: 'https://github.com/tangrams/tangram-es'
+            repo_url: 'https://github.com/tangrams/tangram-es'
+            logo: urbancomputingfoundation.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/mapzen'
   - category:
     name: Data Visualization
     subcategories:
@@ -214,6 +209,7 @@ landscape:
             name: X-DeepLearning
             homepage_url: 'https://github.com/alibaba/x-deeplearning'
             repo_url: 'https://github.com/alibaba/x-deeplearning'
+            stock_ticker: BABA
             logo: x-deeplearning.svg
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/alibaba'
@@ -232,7 +228,7 @@ landscape:
             homepage_url: 'https://deeplearning4j.org/'
             repo_url: 'https://github.com/eclipse/deeplearning4j'
             logo: deeplearning4j.svg
-            twitter: 'https://twitter.com/deeplearning4j'
+            twitter: 'https://twitter.com/KonduitAi'
             crunchbase: 'https://www.crunchbase.com/organization/eclipse-foundation'
           - item:
             name: Keras
@@ -316,7 +312,6 @@ landscape:
             homepage_url: 'https://pachyderm.io/'
             repo_url: 'https://github.com/pachyderm/pachyderm'
             logo: pachyderm.svg
-            twitter: 'https://twitter.com/pachydermio'
             crunchbase: 'https://www.crunchbase.com/organization/pachyderm'
           - item:
             name: Quilt Data
@@ -472,6 +467,7 @@ landscape:
             name: SQLFlow
             homepage_url: 'https://sql-machine-learning.github.io/'
             repo_url: 'https://github.com/sql-machine-learning/sqlflow'
+            stock_ticker: BABA
             logo: sqlflow.svg
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/alibaba'
@@ -490,6 +486,7 @@ landscape:
             homepage_url: 'https://www.featuretools.com/'
             repo_url: 'https://github.com/featuretools/featuretools'
             logo: featuretools.svg
+            twitter: 'https://twitter.com/featuretools_py'
             crunchbase: 'https://www.crunchbase.com/organization/feature-labs'
       - subcategory:
         name: Visualization
@@ -572,7 +569,7 @@ landscape:
             homepage_url: 'https://github.com/deepmind/lab'
             repo_url: 'https://github.com/deepmind/lab'
             logo: deepmindlab.svg
-            twitter: 'https://twitter.com/deepmindai'
+            twitter: 'https://twitter.com/DeepMind'
             crunchbase: 'https://www.crunchbase.com/organization/google'
           - item:
             name: Dopamine
@@ -995,6 +992,7 @@ landscape:
             name: Generic Neural Elastic Search (GNES)
             homepage_url: 'https://github.com/gnes-ai/gnes'
             repo_url: 'https://github.com/gnes-ai/gnes'
+            stock_ticker: TCEHY
             logo: gnes.svg
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/tencent'
@@ -1175,9 +1173,9 @@ landscape:
         name: Premium
         items:
           - item:
-            name: Facebook, Inc.
+            name: 'Facebook, Inc.'
             homepage_url: 'https://www.facebook.com/'
-            logo: https://landscape.graphql.org/logos/facebook-member.svg
+            logo: 'https://landscape.graphql.org/logos/facebook-member.svg'
             twitter: 'https://twitter.com/Facebook'
             crunchbase: 'https://www.crunchbase.com/organization/facebook'
           - item:
@@ -1193,7 +1191,7 @@ landscape:
             twitter: 'https://twitter.com/here'
             crunchbase: 'https://www.crunchbase.com/organization/here-technologies'
           - item:
-            name: Uber Technologies, Inc.
+            name: 'Uber Technologies, Inc.'
             homepage_url: 'https://www.uber.com/'
             logo: uber.svg
             twitter: 'https://twitter.com/Uber'
@@ -1219,6 +1217,7 @@ landscape:
             homepage_url: 'https://www.didiglobal.com'
             stock_ticker: null
             logo: didi.svg
+            twitter: 'https://twitter.com/DidiGlobal'
             crunchbase: 'https://www.crunchbase.com/organization/didi-dache'
           - item:
             name: Gemini Open Cloud
@@ -1240,5 +1239,6 @@ landscape:
           - item:
             name: Red Hat
             homepage_url: 'https://www.redhat.com/en'
+            stock_ticker: IBM
             logo: redhat.svg
             crunchbase: 'https://www.crunchbase.com/organization/red-hat'
