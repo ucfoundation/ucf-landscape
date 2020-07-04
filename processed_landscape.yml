@@ -42,7 +42,7 @@ landscape:
                   color: '#89e051'
               contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
               firstWeek: 2019-07-07Z
-              stars: 985
+              stars: 986
               license: Other
               description: 'A global, public domain map dataset available at three scales and featuring tightly integrated vector and raster data.'
               latest_commit_date: '2018-05-23T07:26:44Z'
@@ -53,7 +53,7 @@ landscape:
               contributors_link: 'https://github.com/nvkelso/natural-earth-vector/graphs/contributors'
             repos:
               - url: 'https://github.com/nvkelso/natural-earth-vector'
-                stars: 985
+                stars: 986
             github_start_commit_data:
               start_commit_link: /nvkelso/natural-earth-vector/commit/4c73fcc32388c5dddc7859bcc0e77abd296162e1
               start_date: '2012-01-22T13:02:30Z'
@@ -137,7 +137,7 @@ landscape:
             github_data:
               languages:
                 - name: Java
-                  value: 39727288
+                  value: 39732235
                   color: '#b07219'
                 - name: TSQL
                   value: 15685648
@@ -148,7 +148,7 @@ landscape:
                   value: 935444
                   color: '#1e4aec'
                 - name: HTML
-                  value: 664081
+                  value: 668461
                   color: '#e34c26'
                 - name: PLSQL
                   value: 200183
@@ -160,7 +160,7 @@ landscape:
                   value: 136331
                   color: '#0050b2'
                 - name: CSS
-                  value: 117277
+                  value: 117998
                   color: '#563d7c'
                 - name: PLpgSQL
                   value: 74688
@@ -190,18 +190,19 @@ landscape:
                 - name: Ruby
                   value: 2219
                   color: '#701516'
-              contributions: 18;23;19;17;23;25;21;8;7;33;15;24;27;22;22;34;27;27;24;14;16;13;13;24;9;11;13;11;13;16;7;14;19;10;18;13;15;10;12;17;8;7;18;10;9;17;8;11;7;9;13;6
+              contributions: >-
+                19;23;15;19;25;27;16;10;4;38;13;26;25;24;22;32;26;31;19;14;17;14;16;23;14;1;14;15;14;11;7;15;19;9;19;16;10;10;12;19;6;11;15;9;9;18;11;8;6;10;12;12
               firstWeek: 2019-07-07Z
-              stars: 1971
+              stars: 1972
               license: Other
               description: Official GeoServer repository
-              latest_commit_date: '2020-07-02T16:37:44Z'
-              latest_commit_link: /geoserver/geoserver/commit/56824a1b8f7e1619a21efc7041c508cfcce7dbfe
-              contributors_count: 327
+              latest_commit_date: '2020-07-03T19:48:42Z'
+              latest_commit_link: /geoserver/geoserver/commit/4f5b375df95a121b0ac0a6bebd5b53efb9466ecc
+              contributors_count: 328
               contributors_link: 'https://github.com/geoserver/geoserver/graphs/contributors'
             repos:
               - url: 'https://github.com/geoserver/geoserver'
-                stars: 1971
+                stars: 1972
             github_start_commit_data:
               start_commit_link: /geoserver/geoserver/commit/44bacafcf1352bfe0b1836262df686fd58036585
               start_date: '2011-06-18T17:08:19Z'
@@ -236,7 +237,7 @@ landscape:
                 - name: JavaScript
                   value: 21149
                   color: '#f1e05a'
-              contributions: 0;0;0;36;6;11;0;7;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              contributions: 0;0;0;39;9;5;1;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
               firstWeek: 2019-07-07Z
               stars: 35
               license: Apache License 2.0
@@ -260,7 +261,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-07-02T09:56:00.000Z
+              latest_tweet_date: 2020-07-03T09:59:00.000Z
           - item:
             name: MapServer Suite
             homepage_url: 'https://mapserver.org/'
@@ -310,7 +311,7 @@ landscape:
                 - name: JavaScript
                   value: 3254
                   color: '#f1e05a'
-              contributions: 1;5;4;2;3;0;0;0;0;9;4;0;6;11;12;2;5;0;0;16;8;10;9;6;0;2;3;4;5;5;6;2;3;8;1;5;11;16;11;9;5;11;6;18;21;3;7;9;7;8;0;1
+              contributions: 2;4;4;5;0;0;0;0;0;10;3;0;9;8;12;2;5;0;1;22;1;10;13;2;0;2;6;5;1;5;6;2;3;8;1;9;7;17;10;14;8;5;4;21;18;7;12;0;12;3;1;0
               firstWeek: 2019-07-07Z
               stars: 21
               license: Unknown License
@@ -375,9 +376,9 @@ landscape:
                 - name: XSLT
                   value: 339
                   color: '#EB8CEB'
-              contributions: 1;1;0;7;0;13;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;0;2;0;0;0
+              contributions: 1;1;0;7;8;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;2;0;0;0;0
               firstWeek: 2019-07-07Z
-              stars: 408
+              stars: 409
               license: Other
               description: Tilezen vector tile service - OpenStreetMap data in several formats
               latest_commit_date: '2020-06-05T16:56:24Z'
@@ -388,7 +389,7 @@ landscape:
               contributors_link: 'https://github.com/tilezen/vector-datasource/graphs/contributors'
             repos:
               - url: 'https://github.com/tilezen/vector-datasource'
-                stars: 408
+                stars: 409
             github_start_commit_data:
               start_commit_link: /tilezen/vector-datasource/commit/fc096332bd3400636381010dd62d6e3d2a40f755
               start_date: '2013-10-09T15:56:29Z'
@@ -433,7 +434,7 @@ landscape:
                 - name: Dockerfile
                   value: 370
                   color: '#384d54'
-              contributions: 0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;2;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1;5;1;5;0;0;1;0;0;0;0
+              contributions: 0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;1;1;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;5;1;5;0;0;1;0;0;0;0
               firstWeek: 2019-07-07Z
               stars: 1981
               license: Other
@@ -497,7 +498,7 @@ landscape:
                 - name: Emacs Lisp
                   value: 96
                   color: '#c065db'
-              contributions: 2;8;4;7;2;4;1;7;1;4;0;3;6;11;9;13;24;33;21;18;25;22;31;1;1;1;18;8;11;7;24;18;6;5;6;8;0;8;3;12;9;10;6;20;8;7;5;3;7;4;6;8
+              contributions: 6;4;5;6;2;5;3;4;2;3;2;2;5;11;11;14;23;33;21;19;22;27;26;1;1;2;17;9;12;5;28;14;7;5;5;8;1;7;6;11;8;11;5;19;12;4;5;4;6;3;9;5
               firstWeek: 2019-07-07Z
               stars: 1182
               license: Other
@@ -565,9 +566,9 @@ landscape:
                   value: 10669
                   color: '#2b7489'
               contributions: >-
-                11;19;11;9;21;50;55;18;21;21;117;71;28;27;39;17;22;16;4;7;2;11;20;31;48;17;29;74;21;61;32;21;23;49;45;9;26;30;63;30;30;86;42;23;50;63;57;82;36;44;52;49
+                11;26;4;8;22;72;34;18;23;20;145;40;36;27;32;23;17;14;4;7;2;15;16;52;27;17;29;76;24;58;34;17;26;49;44;8;25;34;60;30;42;83;39;18;52;66;68;68;41;52;43;41
               firstWeek: 2019-07-07Z
-              stars: 5902
+              stars: 5905
               license: Apache License 2.0
               description: 'An open-source JavaScript library for world-class 3D globes and maps :earth_americas:'
               latest_commit_date: '2020-07-01T19:06:30Z'
@@ -578,7 +579,7 @@ landscape:
               contributors_link: 'https://github.com/CesiumGS/cesium/graphs/contributors'
             repos:
               - url: 'https://github.com/CesiumGS/cesium'
-                stars: 5902
+                stars: 5905
             github_start_commit_data:
               start_commit_link: /CesiumGS/cesium/commit/dbd25c820cdd3c8e663aebcace5ead28bbe0dc58
               start_date: '2012-03-02T22:28:20Z'
@@ -589,7 +590,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-07-02T18:32:11.000Z
+              latest_tweet_date: 2020-07-03T10:29:01.000Z
           - item:
             name: harp.gl
             homepage_url: 'https://www.harp.gl/'
@@ -628,7 +629,7 @@ landscape:
                   value: 5459
                   color: '#563d7c'
               contributions: >-
-                13;15;24;22;27;20;13;18;13;9;24;36;20;35;20;24;33;33;18;26;37;26;21;14;5;7;9;24;18;22;10;13;14;23;15;16;11;15;17;13;10;18;16;15;15;8;16;11;15;17;32;7
+                14;14;26;26;22;19;16;16;11;16;23;36;19;33;19;24;34;29;18;33;40;21;20;14;4;5;11;25;18;19;12;10;16;29;10;16;11;16;13;13;16;14;14;15;15;9;18;8;15;17;32;7
               firstWeek: 2019-07-07Z
               stars: 592
               license: Apache License 2.0
@@ -685,9 +686,9 @@ landscape:
                 - name: CSS
                   value: 150
                   color: '#563d7c'
-              contributions: 0;0;0;0;1;7;2;0;0;0;1;1;14;5;1;3;1;5;2;3;1;4;8;3;1;0;3;1;0;1;1;0;3;0;0;7;0;9;0;0;7;1;1;2;0;2;3;0;1;0;0;1
+              contributions: 0;0;0;0;1;8;1;0;0;0;2;0;15;4;3;1;1;6;1;3;3;3;8;3;0;0;3;1;0;1;1;1;2;0;3;4;7;2;0;4;4;0;1;2;0;2;3;0;1;0;0;1
               firstWeek: 2019-07-07Z
-              stars: 28286
+              stars: 28290
               license: BSD 2-Clause "Simplified" License
               description: ' :leaves: JavaScript library for mobile-friendly interactive maps'
               latest_commit_date: '2020-07-02T10:20:15Z'
@@ -698,7 +699,7 @@ landscape:
               contributors_link: 'https://github.com/Leaflet/Leaflet/graphs/contributors'
             repos:
               - url: 'https://github.com/Leaflet/Leaflet'
-                stars: 28286
+                stars: 28290
             github_start_commit_data:
               start_commit_link: /Leaflet/Leaflet/commit/eb5b7d706b9f439863172c522add77a0193dbda8
               start_date: '2010-09-01T14:55:30Z'
@@ -752,9 +753,9 @@ landscape:
                 - name: Shell
                   value: 295
                   color: '#89e051'
-              contributions: 11;19;19;7;5;25;9;10;4;13;22;16;6;9;14;3;15;13;9;4;17;8;5;15;2;1;9;6;5;8;20;12;4;14;12;14;5;6;12;15;8;4;5;4;9;7;4;7;4;6;0;1
+              contributions: 11;26;13;5;8;22;9;12;2;13;25;14;5;10;13;4;15;15;7;5;15;10;7;12;1;2;9;6;6;8;20;12;4;12;15;11;5;9;11;18;3;6;4;5;7;7;4;7;5;5;0;1
               firstWeek: 2019-07-07Z
-              stars: 6118
+              stars: 6119
               license: Other
               description: 'Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL'
               latest_commit_date: '2020-06-30T13:51:05Z'
@@ -765,7 +766,7 @@ landscape:
               contributors_link: 'https://github.com/mapbox/mapbox-gl-js/graphs/contributors'
             repos:
               - url: 'https://github.com/mapbox/mapbox-gl-js'
-                stars: 6118
+                stars: 6119
             github_start_commit_data:
               start_commit_link: /mapbox/mapbox-gl-js/commit/9bf4c9d49496603a910ee148b7096d253fbf2355
               start_date: '2013-06-26T23:20:45Z'
@@ -776,7 +777,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-07-03T00:57:55.000Z
+              latest_tweet_date: 2020-07-03T17:23:02.000Z
           - item:
             name: OpenLayers
             homepage_url: 'https://www.osgeo.org/projects/openlayers/'
@@ -812,9 +813,9 @@ landscape:
                   value: 2715
                   color: '#e34c26'
               contributions: >-
-                11;16;17;16;24;17;29;10;19;16;23;186;72;29;28;88;84;38;30;29;23;29;31;37;27;14;42;46;29;40;36;43;92;32;32;46;27;50;81;49;46;29;41;46;20;53;20;24;38;35;41;13
+                8;17;28;4;22;23;23;15;20;27;10;200;56;35;24;105;67;36;28;30;26;26;34;39;22;14;44;46;36;30;36;54;82;36;27;50;25;55;86;38;51;23;43;44;22;53;21;22;37;36;47;6
               firstWeek: 2019-07-07Z
-              stars: 7150
+              stars: 7159
               license: BSD 2-Clause "Simplified" License
               description: OpenLayers
               latest_commit_date: '2020-06-29T14:23:24Z'
@@ -825,7 +826,7 @@ landscape:
               contributors_link: 'https://github.com/openlayers/openlayers/graphs/contributors'
             repos:
               - url: 'https://github.com/openlayers/openlayers'
-                stars: 7150
+                stars: 7159
             github_start_commit_data:
               start_commit_link: /openlayers/openlayers/commit/6810d70bddeccb486bbe88b92ee634eb16240e98
               start_date: '2006-05-12T19:35:22Z'
@@ -868,9 +869,9 @@ landscape:
                 - name: HTML
                   value: 2218
                   color: '#e34c26'
-              contributions: 0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;3;5;0;3;0;1;2;2;0;2;5;2;0;5;0;6;2;1;0;0;4;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0
+              contributions: 0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;3;5;0;3;1;0;2;2;0;2;5;2;1;4;0;6;2;1;0;0;4;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0
               firstWeek: 2019-07-07Z
-              stars: 1636
+              stars: 1639
               license: MIT License
               description: WebGL map rendering engine for creative cartography
               latest_commit_date: '2020-06-07T03:21:12Z'
@@ -881,7 +882,7 @@ landscape:
               contributors_link: 'https://github.com/tangrams/tangram/graphs/contributors'
             repos:
               - url: 'https://github.com/tangrams/tangram'
-                stars: 1636
+                stars: 1639
             github_start_commit_data:
               start_commit_link: /tangrams/tangram/commit/dc706b1c8dab198de51521860d7feec379f6a3d7
               start_date: '2013-09-30T01:59:45Z'
@@ -948,7 +949,7 @@ landscape:
                 - name: Ruby
                   value: 893
                   color: '#701516'
-              contributions: 0;0;0;0;0;0;1;0;0;3;0;0;1;3;3;0;2;1;3;2;8;2;2;0;0;1;2;0;3;0;1;1;0;2;0;1;0;0;2;2;0;0;0;1;0;1;2;0;1;0;0;0
+              contributions: 0;0;0;0;0;0;1;0;0;3;0;1;0;3;3;0;2;1;3;3;7;2;2;0;0;2;1;0;3;0;1;1;0;2;0;1;0;0;2;2;0;0;0;1;0;1;2;1;0;0;0;0
               firstWeek: 2019-07-07Z
               stars: 581
               license: MIT License
@@ -1028,13 +1029,13 @@ landscape:
                 - name: C
                   value: 1099
                   color: '#555555'
-              contributions: 132;100;155;177;163;114;170;108;39;76;100;69;117;144;75;61;99;39;104;67;21;52;23;20;13;2;6;7;0;1;5;3;2;2;1;6;0;1;1;5;2;2;0;0;0;4;3;0;0;3;7;0
+              contributions: 122;114;154;174;163;107;182;83;40;82;106;72;121;136;75;48;109;40;103;56;32;43;18;22;12;1;6;7;0;1;6;4;0;2;1;6;0;1;5;1;2;2;0;0;0;4;3;0;0;3;7;2
               firstWeek: 2019-07-07Z
               stars: 5403
               license: MIT License
               description: A flexible framework of neural networks for deep learning
-              latest_commit_date: '2020-06-25T08:03:20Z'
-              latest_commit_link: /chainer/chainer/commit/2bfdcf477e6b8a3a8bd650de3a6828ed2df52bbb
+              latest_commit_date: '2020-07-03T07:59:31Z'
+              latest_commit_link: /chainer/chainer/commit/e8283065bc706447bf4f721122fc3e49f0a06ea1
               release_date: '2020-04-23T07:48:47Z'
               release_link: 'https://github.com/chainer/chainer/releases'
               contributors_count: 317
@@ -1626,9 +1627,9 @@ landscape:
                   color: '#e34c26'
                 - name: Awk
                   value: 675
-              contributions: 2;4;4;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;4;0;0;0;0;0;0;0;0;0;0;0;0;0
+              contributions: 0;5;3;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0
               firstWeek: 2019-07-07Z
-              stars: 16814
+              stars: 16817
               license: Other
               description: 'Microsoft Cognitive Toolkit (CNTK), an open source deep-learning toolkit'
               latest_commit_date: '2020-03-31T15:55:14Z'
@@ -1639,7 +1640,7 @@ landscape:
               contributors_link: 'https://github.com/Microsoft/CNTK/graphs/contributors'
             repos:
               - url: 'https://github.com/Microsoft/CNTK'
-                stars: 16814
+                stars: 16817
             github_start_commit_data:
               start_commit_link: /Microsoft/CNTK/commit/bc9b0d6b0aebc469b2f84664de590b59d6fdf79f
               start_date: '2014-07-29T17:12:20Z'
@@ -1710,9 +1711,9 @@ landscape:
                 - name: Java
                   value: 2844
                   color: '#b07219'
-              contributions: 0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;2;1;0;0;0;2;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              contributions: 0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;2;1;0;0;0;2;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
               firstWeek: 2019-07-07Z
-              stars: 3092
+              stars: 3094
               license: Apache License 2.0
               description: 'DyNet: The Dynamic Neural Network Toolkit'
               latest_commit_date: '2020-03-04T19:48:11Z'
@@ -1723,7 +1724,7 @@ landscape:
               contributors_link: 'https://github.com/clab/dynet/graphs/contributors'
             repos:
               - url: 'https://github.com/clab/dynet'
-                stars: 3092
+                stars: 3094
             github_start_commit_data:
               start_commit_link: /clab/dynet/commit/6cfe99eab9809802c428f7264c99625c926b17dc
               start_date: '2015-02-08T23:09:21Z'
@@ -1757,10 +1758,10 @@ landscape:
             github_data:
               languages:
                 - name: C++
-                  value: 9651348
+                  value: 9655469
                   color: '#f34b7d'
                 - name: Python
-                  value: 7557259
+                  value: 7557797
                   color: '#3572A5'
                 - name: Jupyter Notebook
                   value: 2025321
@@ -1798,22 +1799,22 @@ landscape:
                   value: 11113
                   color: '#012456'
               contributions: >-
-                22;23;30;28;20;28;24;29;33;27;27;34;24;23;29;57;31;28;23;24;20;7;50;24;14;23;20;36;33;21;29;36;36;25;31;18;22;10;1;28;41;20;27;26;17;27;17;23;20;18;15;10
+                21;31;22;28;21;27;27;29;34;19;33;36;18;27;35;49;38;19;23;22;21;13;46;22;21;20;20;36;32;19;32;36;32;29;32;15;20;9;3;40;34;21;26;20;19;29;12;31;13;21;12;12
               firstWeek: 2019-07-07Z
-              stars: 18827
+              stars: 18831
               license: Apache License 2.0
               description: >-
                 Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia,
                 Scala, Go, Javascript and more
-              latest_commit_date: '2020-07-03T01:21:08Z'
-              latest_commit_link: /apache/incubator-mxnet/commit/c519e0e2db54fb8ad74e0e44d586720bf4023490
+              latest_commit_date: '2020-07-04T01:13:41Z'
+              latest_commit_link: /apache/incubator-mxnet/commit/646288716cbba482d4ede0fb4f6141b2ea505090
               release_date: '2020-06-24T18:46:32Z'
               release_link: 'https://github.com/apache/incubator-mxnet/releases'
               contributors_count: 919
               contributors_link: 'https://github.com/apache/incubator-mxnet/graphs/contributors'
             repos:
               - url: 'https://github.com/apache/incubator-mxnet'
-                stars: 18827
+                stars: 18831
             github_start_commit_data:
               start_commit_link: /apache/incubator-mxnet/commit/ab64fe792f874dddb193c9828fd2cc3898f6bee3
               start_date: '2015-04-30T16:21:15Z'
@@ -1898,9 +1899,9 @@ landscape:
                 - name: Batchfile
                   value: 2667
                   color: '#C1F12E'
-              contributions: 2;8;19;11;7;6;23;7;16;14;10;3;9;13;11;21;23;8;12;10;14;3;9;15;11;7;12;14;14;9;3;2;8;19;27;23;11;17;10;11;13;5;3;6;27;23;7;20;15;21;12;14
+              contributions: 2;11;17;12;6;5;24;7;18;13;8;5;11;12;10;22;20;10;16;7;12;5;7;18;12;2;21;6;13;11;2;1;12;18;27;20;13;16;9;11;13;5;3;11;31;16;5;20;24;13;13;12
               firstWeek: 2019-07-07Z
-              stars: 9096
+              stars: 9104
               license: Other
               description: ncnn is a high-performance neural network inference framework optimized for the mobile platform
               latest_commit_date: '2020-07-02T06:15:28Z'
@@ -1911,12 +1912,12 @@ landscape:
               contributors_link: 'https://github.com/Tencent/ncnn/graphs/contributors'
             repos:
               - url: 'https://github.com/Tencent/ncnn'
-                stars: 9096
+                stars: 9104
             github_start_commit_data:
               start_commit_link: /Tencent/ncnn/commit/b7db8be4f6aac1decabdc40a57c7641b4a2ecc6e
               start_date: '2017-06-30T12:01:38Z'
             yahoo_finance_data:
-              market_cap: 638462103950
+              market_cap: 646488282063
               effective_ticker: 0700.HK
             image_data:
               fileName: ncnn.svg
@@ -2138,7 +2139,7 @@ landscape:
             github_data:
               languages:
                 - name: Python
-                  value: 957683
+                  value: 958183
                   color: '#3572A5'
                 - name: JavaScript
                   value: 10692
@@ -2152,20 +2153,20 @@ landscape:
                 - name: Shell
                   value: 2385
                   color: '#89e051'
-              contributions: 0;3;0;3;1;0;1;3;0;2;0;1;0;2;13;1;2;1;2;0;1;0;8;2;1;0;2;0;0;0;0;0;0;0;0;0;17;44;20;16;14;21;3;5;18;2;8;8;12;15;7;16
+              contributions: 1;2;0;3;1;0;1;3;0;2;0;1;0;3;12;1;2;2;1;0;1;1;7;2;1;1;1;0;0;0;0;0;0;0;0;0;22;41;23;11;19;17;3;9;13;6;4;9;17;10;7;16
               firstWeek: 2019-07-07Z
-              stars: 3646
+              stars: 3650
               license: Other
               description: A modular framework for vision & language multimodal research from Facebook AI Research (FAIR)
-              latest_commit_date: '2020-07-02T19:07:17Z'
-              latest_commit_link: /facebookresearch/mmf/commit/b7287ebaec73f05b32eb81bff94246c285c2a69e
+              latest_commit_date: '2020-07-03T03:19:36Z'
+              latest_commit_link: /facebookresearch/mmf/commit/47da75a06abbd433e00f0ffe3fa6d532cf898a12
               release_date: '2019-08-26T19:04:21Z'
               release_link: 'https://github.com/facebookresearch/mmf/releases'
               contributors_count: 28
               contributors_link: 'https://github.com/facebookresearch/mmf/graphs/contributors'
             repos:
               - url: 'https://github.com/facebookresearch/mmf'
-                stars: 3646
+                stars: 3650
             github_start_commit_data:
               start_commit_link: /facebookresearch/pythia/commit/74a04f01f662b4611d9aed44a77041a982b8766c
               start_date: '2018-07-27T01:46:07Z'
@@ -2202,10 +2203,10 @@ landscape:
             github_data:
               languages:
                 - name: C++
-                  value: 25360634
+                  value: 25368100
                   color: '#f34b7d'
                 - name: Python
-                  value: 15651874
+                  value: 15656774
                   color: '#3572A5'
                 - name: Cuda
                   value: 3138337
@@ -2216,7 +2217,7 @@ landscape:
                 - name: CMake
                   value: 731400
                 - name: Shell
-                  value: 287820
+                  value: 289405
                   color: '#89e051'
                 - name: Objective-C++
                   value: 254789
@@ -2274,20 +2275,20 @@ landscape:
                   value: 154
                   color: '#199f4b'
               contributions: >-
-                118;114;189;154;115;225;130;212;149;177;197;268;194;171;206;141;197;208;219;253;140;130;161;118;46;34;126;107;104;140;117;120;133;174;197;176;205;238;238;200;204;211;224;254;258;203;129;175;175;221;228;141
+                119;126;194;145;154;188;137;229;131;184;196;285;183;149;207;153;194;219;205;269;94;169;143;119;34;45;122;112;101;141;113;136;133;177;200;172;215;252;220;203;193;210;228;275;244;174;151;159;195;223;217;125
               firstWeek: 2019-07-07Z
-              stars: 39891
+              stars: 39928
               license: Other
               description: Tensors and Dynamic neural networks in Python with strong GPU acceleration
-              latest_commit_date: '2020-07-03T00:52:41Z'
-              latest_commit_link: /pytorch/pytorch/commit/6095808d22170aeb44e746105d6e9b2908748298
+              latest_commit_date: '2020-07-03T22:17:16Z'
+              latest_commit_link: /pytorch/pytorch/commit/3b7df2388e63a193bb8129c0acab222d4a9c8e7b
               release_date: '2020-06-18T16:43:46Z'
               release_link: 'https://github.com/pytorch/pytorch/releases'
               contributors_count: 2070
               contributors_link: 'https://github.com/pytorch/pytorch/graphs/contributors'
             repos:
               - url: 'https://github.com/pytorch/pytorch'
-                stars: 39891
+                stars: 39928
             github_start_commit_data:
               start_commit_link: /pytorch/pytorch/commit/053065ba239e3421d1b2cbec55e3f177a21d6829
               start_date: '2012-01-25T13:55:20Z'
@@ -2852,10 +2853,10 @@ landscape:
             github_data:
               languages:
                 - name: C++
-                  value: 91624534
+                  value: 91632260
                   color: '#f34b7d'
                 - name: Python
-                  value: 40149975
+                  value: 40150247
                   color: '#3572A5'
                 - name: HTML
                   value: 4686483
@@ -2863,7 +2864,7 @@ landscape:
                 - name: Starlark
                   value: 4108393
                 - name: MLIR
-                  value: 3278450
+                  value: 3279883
                 - name: Go
                   value: 1917282
                   color: '#00ADD8'
@@ -2935,25 +2936,25 @@ landscape:
                 - name: Vim Snippet
                   value: 58
               contributions: >-
-                528;592;596;624;652;623;637;500;494;547;588;534;541;624;612;552;502;462;507;588;442;437;571;614;357;218;476;538;514;543;586;644;604;616;552;529;509;490;503;514;555;540;559;502;488;442;411;476;565;602;604;348
+                638;555;592;686;607;623;626;490;501;552;592;513;552;624;624;538;478;465;563;544;359;552;575;589;297;256;502;535;505;547;601;660;600;594;543;534;513;480;513;492;576;524;563;489;515;391;444;494;566;622;565;278
               firstWeek: 2019-07-07Z
-              stars: 146078
+              stars: 146103
               license: Apache License 2.0
               description: An Open Source Machine Learning Framework for Everyone
-              latest_commit_date: '2020-07-03T00:41:01Z'
-              latest_commit_link: /tensorflow/tensorflow/commit/80347abfbff60817c86b6de62709f6d3d3da00ce
+              latest_commit_date: '2020-07-03T22:36:50Z'
+              latest_commit_link: /tensorflow/tensorflow/commit/59283c98c9abdedd34657d326cec9ce10460c987
               release_date: '2020-06-26T23:27:29Z'
               release_link: 'https://github.com/tensorflow/tensorflow/releases'
               contributors_count: 3188
               contributors_link: 'https://github.com/tensorflow/tensorflow/graphs/contributors'
             repos:
               - url: 'https://github.com/tensorflow/tensorflow'
-                stars: 146078
+                stars: 146103
             github_start_commit_data:
               start_commit_link: /tensorflow/tensorflow/commit/f41959ccb2d9d4c722fe8fc3351401d53bcf4900
               start_date: '2015-11-07T00:27:58Z'
             yahoo_finance_data:
-              market_cap: 1001230827520
+              market_cap: 1001645342720
               effective_ticker: GOOG
             image_data:
               fileName: tensorflow.svg
@@ -3008,7 +3009,7 @@ landscape:
                   color: '#f1e05a'
                 - name: Starlark
                   value: 346
-              contributions: 8;15;4;13;19;10;29;15;2;2;0;3;0;5;43;10;24;8;1;18;8;25;3;0;0;0;0;1;8;0;0;0;0;0;0;1;2;16;1;1;4;0;28;0;0;0;0;0;0;0;0;0
+              contributions: 12;10;5;14;25;3;37;8;0;2;0;3;0;6;48;4;32;0;5;14;8;25;3;0;0;0;0;1;8;0;0;0;0;0;0;1;4;15;0;1;4;0;28;0;0;0;0;0;0;0;0;0
               firstWeek: 2019-07-07Z
               stars: 518
               license: Apache License 2.0
@@ -3057,7 +3058,7 @@ landscape:
             github_data:
               languages:
                 - name: Python
-                  value: 1325871
+                  value: 1325988
                   color: '#3572A5'
                 - name: Shell
                   value: 12240
@@ -3071,20 +3072,20 @@ landscape:
                   value: 1329
                   color: '#C1F12E'
               contributions: >-
-                38;39;47;50;26;63;58;37;40;49;8;24;36;20;23;29;34;103;84;53;87;134;99;95;33;73;105;179;114;91;29;20;31;18;4;13;32;16;24;12;13;13;24;29;23;27;29;31;34;37;24;20
+                29;45;39;52;34;57;54;43;52;34;7;28;35;17;25;32;43;105;69;54;102;148;97;67;42;80;118;159;118;87;17;31;25;15;2;14;32;21;18;15;12;15;22;30;23;31;25;31;41;31;25;21
               firstWeek: 2019-07-07Z
-              stars: 5417
+              stars: 5426
               license: Apache License 2.0
               description: "\U0001F989Data Version Control | Git for Data & Models"
-              latest_commit_date: '2020-07-03T00:05:16Z'
-              latest_commit_link: /iterative/dvc/commit/fb99f2e332b265fdd1baec6f66821ec93c10ecdf
-              release_date: '2020-07-03T00:05:36Z'
+              latest_commit_date: '2020-07-03T22:47:07Z'
+              latest_commit_link: /iterative/dvc/commit/520e01f11305aba1994df354adef86e6d90180de
+              release_date: '2020-07-03T22:47:24Z'
               release_link: 'https://github.com/iterative/dvc/releases'
               contributors_count: 146
               contributors_link: 'https://github.com/iterative/dvc/graphs/contributors'
             repos:
               - url: 'https://github.com/iterative/dvc'
-                stars: 5417
+                stars: 5426
             github_start_commit_data:
               start_commit_link: /iterative/dvc/commit/595ac51b5af753aad17b71bcbd7cd8277d3c2c56
               start_date: '2017-03-04T08:16:33Z'
@@ -3141,9 +3142,9 @@ landscape:
                 - name: HCL
                   value: 40
               contributions: >-
-                29;52;63;58;54;26;41;21;30;53;51;47;61;84;139;59;53;31;53;33;21;54;52;57;18;0;61;62;30;40;29;21;29;108;147;83;69;78;37;21;33;45;87;48;37;62;41;37;37;83;55;47
+                39;46;64;55;58;33;34;16;47;55;31;62;71;75;129;59;49;40;52;25;18;63;52;64;2;0;73;51;45;30;24;26;33;122;148;84;46;79;33;23;33;53;100;29;49;57;36;38;50;69;57;39
               firstWeek: 2019-07-07Z
-              stars: 4472
+              stars: 4473
               license: Other
               description: Reproducible Data Science at Scale!
               latest_commit_date: '2020-07-02T20:14:36Z'
@@ -3154,7 +3155,7 @@ landscape:
               contributors_link: 'https://github.com/pachyderm/pachyderm/graphs/contributors'
             repos:
               - url: 'https://github.com/pachyderm/pachyderm'
-                stars: 4472
+                stars: 4473
             github_start_commit_data:
               start_commit_link: /pachyderm/pachyderm/commit/11eb4c6e1945beb1e6ce3e878ed2cb6c24ee8bf1
               start_date: '2014-09-04T07:50:02Z'
@@ -3165,7 +3166,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-07-02T18:07:24.000Z
+              latest_tweet_date: 2020-07-03T15:11:30.000Z
           - item:
             name: Quilt Data
             homepage_url: 'https://docs.quiltdata.com/'
@@ -3215,7 +3216,7 @@ landscape:
                   value: 417
                   color: '#427819'
               contributions: >-
-                65;17;17;16;11;10;9;11;8;15;42;31;27;32;29;13;20;20;19;23;44;21;49;26;17;15;13;18;58;29;31;17;19;27;26;23;24;39;28;26;18;38;20;12;12;6;4;4;16;7;4;13
+                64;15;18;17;10;10;8;10;13;16;37;34;31;27;26;16;23;17;16;26;41;21;51;29;16;12;17;48;34;24;27;20;19;27;24;24;28;35;28;28;20;33;18;12;11;7;3;9;11;7;7;10
               firstWeek: 2019-07-07Z
               stars: 928
               license: Apache License 2.0
@@ -3277,7 +3278,7 @@ landscape:
                 - name: Shell
                   value: 22217
                   color: '#89e051'
-              contributions: 10;33;11;27;0;24;19;73;15;19;12;4;5;7;6;7;14;26;9;8;3;17;14;24;1;9;0;0;0;0;1;12;1;0;0;0;1;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0
+              contributions: 7;33;11;27;11;13;23;72;20;13;13;1;12;0;11;6;10;30;5;9;7;12;14;24;9;1;0;0;0;0;1;13;0;0;0;0;1;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0
               firstWeek: 2019-07-07Z
               stars: 871
               license: MIT License
@@ -3580,7 +3581,7 @@ landscape:
                 - name: HTML
                   value: 161
                   color: '#e34c26'
-              contributions: 1;3;1;0;4;0;0;1;1;3;1;4;0;3;0;1;1;1;1;1;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;2;0
+              contributions: 1;3;1;0;4;0;0;1;1;3;2;3;0;3;0;1;1;1;1;1;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;2;0
               firstWeek: 2019-07-07Z
               stars: 1758
               license: Apache License 2.0
@@ -4198,9 +4199,9 @@ landscape:
                 - name: Makefile
                   value: 829
                   color: '#427819'
-              contributions: 4;5;3;0;1;0;3;2;0;7;6;1;2;2;7;2;8;0;2;6;0;8;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              contributions: 8;1;3;0;1;0;4;1;0;11;2;2;1;2;7;2;8;0;2;6;0;8;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
               firstWeek: 2019-07-07Z
-              stars: 6201
+              stars: 6203
               license: GNU General Public License v2.0
               description: A customisable 3D platform for agent-based AI research
               latest_commit_date: '2020-01-07T15:51:40Z'
@@ -4211,12 +4212,12 @@ landscape:
               contributors_link: 'https://github.com/deepmind/lab/graphs/contributors'
             repos:
               - url: 'https://github.com/deepmind/lab'
-                stars: 6201
+                stars: 6203
             github_start_commit_data:
               start_commit_link: /deepmind/lab/commit/ab8a92b48e1dffe2deb5b6c679d7041984c456a8
               start_date: '2016-10-11T13:34:53Z'
             yahoo_finance_data:
-              market_cap: 1001230827520
+              market_cap: 1001645342720
               effective_ticker: GOOG
             image_data:
               fileName: deep-mind-lab.svg
@@ -4225,7 +4226,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-07-02T16:07:27.000Z
+              latest_tweet_date: 2020-07-03T16:22:49.000Z
           - item:
             name: Dopamine
             homepage_url: 'https://github.com/google/dopamine'
@@ -4787,9 +4788,9 @@ landscape:
                 - name: HTML
                   value: 3591
                   color: '#e34c26'
-              contributions: 2;1;0;4;1;0;0;1;3;0;0;1;0;1;0;0;0;1;0;0;2;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              contributions: 1;1;1;3;1;0;0;1;3;0;0;1;0;1;0;0;1;0;0;2;0;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
               firstWeek: 2019-07-07Z
-              stars: 8935
+              stars: 8939
               license: Apache License 2.0
               description: 'Dopamine is a research framework for fast prototyping of reinforcement learning algorithms. '
               latest_commit_date: '2019-12-19T15:17:25Z'
@@ -4800,12 +4801,12 @@ landscape:
               contributors_link: 'https://github.com/google/dopamine/graphs/contributors'
             repos:
               - url: 'https://github.com/google/dopamine'
-                stars: 8935
+                stars: 8939
             github_start_commit_data:
               start_commit_link: /google/dopamine/commit/420b147474d455fe39d911432fe579e54db3a1e0
               start_date: '2018-08-26T19:52:36Z'
             yahoo_finance_data:
-              market_cap: 1001230827520
+              market_cap: 1001645342720
               effective_ticker: GOOG
             image_data:
               fileName: dopamine.svg
@@ -5029,7 +5030,7 @@ landscape:
             github_data:
               languages:
                 - name: Python
-                  value: 1352396
+                  value: 1355722
                   color: '#3572A5'
                 - name: C++
                   value: 99666
@@ -5042,18 +5043,18 @@ landscape:
                   color: '#DA5B0B'
                 - name: CMake
                   value: 3533
-              contributions: 9;10;7;5;5;3;0;1;2;4;5;4;2;20;19;3;8;6;4;4;1;3;5;7;0;5;4;4;2;2;1;5;7;3;7;5;1;2;5;13;7;12;11;15;10;10;5;16;8;7;4;8
+              contributions: 11;7;8;4;6;2;0;2;2;4;6;2;3;20;20;2;8;6;4;3;3;2;8;3;0;9;0;5;3;1;1;5;6;3;7;5;2;1;7;13;6;11;11;19;7;9;7;16;6;7;5;8
               firstWeek: 2019-07-07Z
-              stars: 2552
+              stars: 2553
               license: BSD 3-Clause "New" or "Revised" License
               description: 'A platform for Reasoning systems (Reinforcement Learning, Contextual Bandits, etc.)'
-              latest_commit_date: '2020-07-02T16:12:48Z'
-              latest_commit_link: /facebookresearch/ReAgent/commit/55792846d8a073ec480a3e5a926450d9771940e3
-              contributors_count: 63
+              latest_commit_date: '2020-07-03T14:24:43Z'
+              latest_commit_link: /facebookresearch/ReAgent/commit/69569c6bc8ca31f2dee9b807429172950753e29b
+              contributors_count: 64
               contributors_link: 'https://github.com/facebookresearch/ReAgent/graphs/contributors'
             repos:
               - url: 'https://github.com/facebookresearch/ReAgent'
-                stars: 2552
+                stars: 2553
             github_start_commit_data:
               start_commit_link: /facebookresearch/Horizon/commit/2066f11ca9cbfbed8effdeacf0d682632b8be828
               start_date: '2017-08-25T22:57:58Z'
@@ -5100,9 +5101,9 @@ landscape:
                 - name: Shell
                   value: 484
                   color: '#89e051'
-              contributions: 6;9;5;4;0;3;0;10;0;0;0;1;5;4;2;8;8;5;4;0;0;0;4;2;0;0;0;1;0;3;3;1;0;3;5;4;0;1;0;0;6;1;9;0;5;4;0;7;3;1;11;0
+              contributions: 13;2;9;0;2;1;10;0;0;0;0;6;2;4;8;8;4;5;0;0;0;3;2;1;0;0;0;1;2;2;2;1;1;3;8;0;0;1;0;6;1;9;0;5;4;0;5;3;3;10;1;0
               firstWeek: 2019-07-07Z
-              stars: 21208
+              stars: 21219
               license: Other
               description: A toolkit for developing and comparing reinforcement learning algorithms.
               latest_commit_date: '2020-06-24T00:00:45Z'
@@ -5113,7 +5114,7 @@ landscape:
               contributors_link: 'https://github.com/openai/gym/graphs/contributors'
             repos:
               - url: 'https://github.com/openai/gym'
-                stars: 21208
+                stars: 21219
             github_start_commit_data:
               start_commit_link: /openai/gym/commit/e8f29806033861f196cbc679788b985f4b40c4b7
               start_date: '2016-04-27T15:00:58Z'
@@ -5694,7 +5695,7 @@ landscape:
               start_commit_link: /google-research/planet/commit/b33f0d52edee8d8e48ee2d92d35582ce640fd96f
               start_date: '2019-02-14T23:33:45Z'
             yahoo_finance_data:
-              market_cap: 1001230827520
+              market_cap: 1001645342720
               effective_ticker: GOOG
             image_data:
               fileName: pla-net.svg
@@ -5754,9 +5755,9 @@ landscape:
                 - name: Perl
                   value: 101
                   color: '#0298c3'
-              contributions: 11;9;4;3;3;13;13;21;1;6;7;16;16;9;11;4;6;2;5;6;3;3;2;16;3;4;17;26;16;17;24;21;28;26;21;16;19;12;3;14;18;25;35;16;16;14;11;17;13;14;14;10
+              contributions: 12;10;2;3;3;14;13;20;5;2;8;18;17;9;8;5;4;3;5;6;2;3;5;14;2;11;10;34;10;18;23;25;28;21;25;16;15;12;5;11;20;29;38;11;12;16;11;18;11;14;13;10
               firstWeek: 2019-07-07Z
-              stars: 8715
+              stars: 8719
               license: Apache License 2.0
               description: 'An open-source NLP research library, built on PyTorch.'
               latest_commit_date: '2020-07-02T11:48:01Z'
@@ -5767,7 +5768,7 @@ landscape:
               contributors_link: 'https://github.com/allenai/allennlp/graphs/contributors'
             repos:
               - url: 'https://github.com/allenai/allennlp'
-                stars: 8715
+                stars: 8719
             github_start_commit_data:
               start_commit_link: /allenai/allennlp/commit/f7473cd21e218307a958be83662cb7df8c415d2e
               start_date: '2017-05-15T15:52:42Z'
@@ -5828,7 +5829,7 @@ landscape:
                   color: '#e69f56'
                 - name: Rich Text Format
                   value: 716
-              contributions: 3;11;26;1;8;0;3;0;0;0;2;0;0;0;2;3;9;27;0;0;0;3;0;3;3;0;22;18;5;0;4;3;0;0;0;7;0;0;1;2;0;3;1;1;9;1;0;0;0;4;5;2
+              contributions: 3;18;19;1;8;0;3;0;0;0;2;0;0;0;2;4;14;21;0;0;0;3;0;6;0;0;28;15;2;0;7;0;0;0;0;7;0;0;2;1;0;3;1;1;9;1;0;0;0;6;3;2
               firstWeek: 2019-07-07Z
               stars: 36
               license: Apache License 2.0
@@ -6410,7 +6411,7 @@ landscape:
                   color: '#DA5B0B'
               contributions: 0;2;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
               firstWeek: 2019-07-07Z
-              stars: 23772
+              stars: 23788
               license: Apache License 2.0
               description: TensorFlow code and pre-trained models for BERT
               latest_commit_date: '2020-03-11T15:19:54Z'
@@ -6419,12 +6420,12 @@ landscape:
               contributors_link: 'https://github.com/google-research/bert/graphs/contributors'
             repos:
               - url: 'https://github.com/google-research/bert'
-                stars: 23772
+                stars: 23788
             github_start_commit_data:
               start_commit_link: /google-research/bert/commit/f7c3e8c001c184d3db5ef1ecadd3443276433421
               start_date: '2018-10-25T23:04:53Z'
             yahoo_finance_data:
-              market_cap: 1001230827520
+              market_cap: 1001645342720
               effective_ticker: GOOG
             image_data:
               fileName: bert.svg
@@ -6433,7 +6434,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-07-02T17:32:37.000Z
+              latest_tweet_date: 2020-07-03T20:46:20.000Z
           - item:
             name: CoreNLP
             homepage_url: 'https://stanfordnlp.github.io/CoreNLP/'
@@ -6495,9 +6496,9 @@ landscape:
                 - name: Batchfile
                   value: 429
                   color: '#C1F12E'
-              contributions: 28;28;7;22;5;18;8;34;42;27;19;11;31;6;6;23;5;6;5;11;13;28;2;14;2;0;15;26;21;28;20;18;27;4;35;13;10;46;34;24;22;34;20;48;4;4;10;14;1;13;9;4
+              contributions: 31;26;6;22;5;20;6;38;38;27;24;6;32;9;3;22;5;8;3;11;14;28;3;14;0;0;15;30;18;27;24;18;25;5;33;16;24;31;39;23;26;26;26;40;3;5;13;10;3;12;8;4
               firstWeek: 2019-07-07Z
-              stars: 7302
+              stars: 7301
               license: Other
               description: 'Stanford CoreNLP: A Java suite of core NLP tools.'
               latest_commit_date: '2020-07-02T15:52:45Z'
@@ -6508,7 +6509,7 @@ landscape:
               contributors_link: 'https://github.com/stanfordnlp/CoreNLP/graphs/contributors'
             repos:
               - url: 'https://github.com/stanfordnlp/CoreNLP'
-                stars: 7302
+                stars: 7301
             github_start_commit_data:
               start_commit_link: /stanfordnlp/CoreNLP/commit/c55709f3d5aa921a2ccadebfb3c97cd6e2584089
               start_date: '2013-06-27T21:44:08Z'
@@ -6757,9 +6758,9 @@ landscape:
                 - name: Perl
                   value: 1995
                   color: '#0298c3'
-              contributions: 0;1;0;0;0;0;0;9;3;1;0;1;4;0;1;0;0;0;0;0;0;0;0;0;4;0;1;0;0;0;0;0;0;1;0;0;0;5;0;0;2;0;4;2;0;0;2;0;0;0;0;0
+              contributions: 0;1;0;0;0;0;0;12;1;0;0;1;4;1;0;0;0;0;0;0;0;0;0;0;4;1;0;0;0;0;0;0;0;1;0;0;0;5;0;2;0;0;4;2;0;0;2;0;0;0;0;0
               firstWeek: 2019-07-07Z
-              stars: 21324
+              stars: 21328
               license: MIT License
               description: Library for fast text representation and classification.
               latest_commit_date: '2020-05-27T09:31:13Z'
@@ -6770,7 +6771,7 @@ landscape:
               contributors_link: 'https://github.com/facebookresearch/fastText/graphs/contributors'
             repos:
               - url: 'https://github.com/facebookresearch/fastText'
-                stars: 21324
+                stars: 21328
             github_start_commit_data:
               start_commit_link: /facebookresearch/fastText/commit/836e53629585221e1d357fd357b000b316fb691c
               start_date: '2016-07-21T16:06:29Z'
@@ -7005,9 +7006,9 @@ landscape:
                 - name: Dockerfile
                   value: 1368
                   color: '#384d54'
-              contributions: 0;7;1;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;8;2;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0
+              contributions: 2;5;1;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;8;2;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0
               firstWeek: 2019-07-07Z
-              stars: 2509
+              stars: 2508
               license: Other
               description: Language-Agnostic SEntence Representations
               latest_commit_date: '2020-04-20T15:27:47Z'
@@ -7016,7 +7017,7 @@ landscape:
               contributors_link: 'https://github.com/facebookresearch/LASER/graphs/contributors'
             repos:
               - url: 'https://github.com/facebookresearch/LASER'
-                stars: 2509
+                stars: 2508
             github_start_commit_data:
               start_commit_link: /facebookresearch/LASER/commit/8ee8038f6cdcc8456903b6805cde2937192f21b8
               start_date: '2018-06-21T13:23:56Z'
@@ -7053,7 +7054,7 @@ landscape:
             github_data:
               languages:
                 - name: Java
-                  value: 69696467
+                  value: 69699042
                   color: '#b07219'
                 - name: HTML
                   value: 783561
@@ -7103,18 +7104,18 @@ landscape:
                 - name: Mathematica
                   value: 96
               contributions: >-
-                27;30;32;28;33;24;24;28;29;22;23;16;34;33;47;28;23;18;30;25;43;47;101;87;31;28;66;61;40;54;34;23;36;34;40;38;27;22;19;30;33;27;42;26;29;28;22;29;46;36;36;45
+                24;35;34;27;30;20;31;24;31;24;18;18;36;36;43;27;26;12;33;29;36;63;108;71;25;45;55;56;45;53;36;21;38;33;39;35;25;23;23;29;30;35;36;25;33;27;20;32;42;32;41;42
               firstWeek: 2019-07-07Z
-              stars: 3596
+              stars: 3598
               license: Apache License 2.0
               description: Apache Lucene and Solr open-source search software
-              latest_commit_date: '2020-07-02T20:36:44Z'
-              latest_commit_link: /apache/lucene-solr/commit/2005c43667b49422041e985bdc3cc53155bd9f09
+              latest_commit_date: '2020-07-03T05:25:58Z'
+              latest_commit_link: /apache/lucene-solr/commit/05324e7b1813c43084fbce7f3e6305db0ac94c32
               contributors_count: 269
               contributors_link: 'https://github.com/apache/lucene-solr/graphs/contributors'
             repos:
               - url: 'https://github.com/apache/lucene-solr'
-                stars: 3596
+                stars: 3598
             github_start_commit_data:
               start_commit_link: /apache/lucene-solr/commit/a0e7ee9d0d12370e8d2b5ae0a23b6e687e018d85
               start_date: '2001-09-11T21:44:36Z'
@@ -7753,9 +7754,9 @@ landscape:
                 - name: Dockerfile
                   value: 5327
                   color: '#384d54'
-              contributions: 9;0;8;1;2;2;0;6;3;12;3;10;0;2;2;2;0;1;1;2;1;1;6;3;0;0;1;5;2;0;0;9;2;6;1;1;0;0;8;1;3;7;1;9;2;6;3;6;2;6;10;16
+              contributions: 4;3;5;1;2;2;0;7;2;12;3;10;0;2;4;0;0;1;1;2;1;1;8;1;0;0;4;2;2;0;4;5;4;4;1;1;0;0;8;1;3;7;2;10;2;4;3;6;6;3;11;14
               firstWeek: 2019-07-07Z
-              stars: 374
+              stars: 375
               license: Apache License 2.0
               description: An Open Source Conversational AI Platform for Deep-Domain Voice Interfaces and Chatbots.
               latest_commit_date: '2020-07-02T22:34:24Z'
@@ -7764,7 +7765,7 @@ landscape:
               contributors_link: 'https://github.com/cisco/mindmeld/graphs/contributors'
             repos:
               - url: 'https://github.com/cisco/mindmeld'
-                stars: 374
+                stars: 375
             github_start_commit_data:
               start_commit_link: /cisco/mindmeld/commit/014c18f532e05561c50d92b8bb731a52169350e5
               start_date: '2016-12-06T00:26:25Z'
@@ -8063,7 +8064,7 @@ landscape:
                 - name: HTML
                   value: 311
                   color: '#e34c26'
-              contributions: 2;8;2;1;4;8;24;20;10;4;0;0;0;3;2;6;3;4;0;3;5;4;0;0;0;2;3;0;1;3;2;1;1;1;0;8;2;1;3;0;2;0;0;0;0;4;0;1;0;0;0;0
+              contributions: 2;8;2;1;6;6;24;20;10;4;0;0;0;3;2;6;3;4;0;3;5;4;0;0;0;2;3;0;1;3;2;1;2;0;0;8;2;1;3;0;2;0;0;0;0;4;0;1;0;0;0;0
               firstWeek: 2019-07-07Z
               stars: 2437
               license: Apache License 2.0
@@ -8135,7 +8136,7 @@ landscape:
                 - name: Dockerfile
                   value: 182
                   color: '#384d54'
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;3;7;0;0;1;0;1;0;2;0;0;0;0;0;0;1;1;0;0;1;1;0;1;0
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;4;6;0;0;1;0;1;0;2;0;0;0;0;0;0;1;1;0;0;1;1;0;1;0
               firstWeek: 2019-07-07Z
               stars: 947
               license: Apache License 2.0
@@ -8392,9 +8393,9 @@ landscape:
                 - name: Makefile
                   value: 289
                   color: '#427819'
-              contributions: 10;15;9;7;28;13;11;23;3;3;9;4;12;19;8;3;6;3;12;14;17;10;17;20;3;3;14;15;14;4;14;7;9;12;10;12;15;16;21;14;13;8;17;12;13;10;8;20;9;17;13;5
+              contributions: 10;12;13;3;27;16;11;20;3;3;9;4;20;12;7;5;4;5;10;20;11;11;16;22;2;4;16;13;12;7;12;7;9;13;8;14;16;16;21;12;16;6;15;14;12;12;8;19;13;11;14;4
               firstWeek: 2019-07-07Z
-              stars: 6356
+              stars: 6362
               license: MIT License
               description: A framework for training and evaluating AI models on a variety of openly available dialogue datasets.
               latest_commit_date: '2020-07-01T20:19:18Z'
@@ -8405,7 +8406,7 @@ landscape:
               contributors_link: 'https://github.com/facebookresearch/ParlAI/graphs/contributors'
             repos:
               - url: 'https://github.com/facebookresearch/ParlAI'
-                stars: 6356
+                stars: 6362
             github_start_commit_data:
               start_commit_link: /facebookresearch/ParlAI/commit/e9e69f6256c11ffc8b6233f023393a4a8d5adf9c
               start_date: '2017-05-01T20:51:41Z'
@@ -8643,20 +8644,20 @@ landscape:
                 - name: Batchfile
                   value: 535
                   color: '#C1F12E'
-              contributions: 13;17;18;29;23;23;19;7;5;20;16;16;22;13;12;12;16;17;21;18;12;14;11;25;5;1;2;13;1;1;8;6;13;10;2;15;4;13;9;11;8;13;11;8;9;4;4;7;6;2;9;6
+              contributions: 16;13;26;25;26;22;13;9;7;16;16;16;29;11;12;11;13;21;23;16;7;16;14;23;2;1;8;7;1;5;5;6;13;11;3;13;8;11;9;9;8;14;13;4;10;3;5;7;5;3;8;7
               firstWeek: 2019-07-07Z
-              stars: 5907
+              stars: 5909
               license: Other
               description: A natural language modeling framework based on PyTorch
-              latest_commit_date: '2020-07-02T22:44:25Z'
-              latest_commit_link: /facebookresearch/pytext/commit/0d2bc20bea85618378589cc40830c425d76b0b01
+              latest_commit_date: '2020-07-03T23:23:39Z'
+              latest_commit_link: /facebookresearch/pytext/commit/75acf0d0508e1b75346ba0950b2432b8bb53af40
               release_date: '2020-06-08T23:30:58Z'
               release_link: 'https://github.com/facebookresearch/pytext/releases'
               contributors_count: 115
               contributors_link: 'https://github.com/facebookresearch/pytext/graphs/contributors'
             repos:
               - url: 'https://github.com/facebookresearch/pytext'
-                stars: 5907
+                stars: 5909
             github_start_commit_data:
               start_commit_link: /facebookresearch/pytext/commit/a64370c7f1aac1c0491ccf5b2b0987909c9e0d94
               start_date: '2018-12-11T21:09:08Z'
@@ -8694,7 +8695,7 @@ landscape:
             github_data:
               languages:
                 - name: Python
-                  value: 2534159
+                  value: 2539522
                   color: '#3572A5'
                 - name: HTML
                   value: 4467
@@ -8709,20 +8710,20 @@ landscape:
                   value: 384
                   color: '#89e051'
               contributions: >-
-                222;218;293;184;170;220;207;183;197;95;158;75;105;105;52;210;150;77;187;165;230;152;235;209;19;49;66;170;213;200;157;256;263;284;77;102;145;224;135;72;108;135;108;42;48;108;65;75;37;57;13;19
+                224;213;300;149;199;230;215;175;157;113;153;83;89;109;129;136;147;85;208;150;220;154;239;188;14;92;25;222;204;178;158;260;279;252;78;112;158;213;127;59;136;117;98;44;68;89;79;82;64;49;25;53
               firstWeek: 2019-07-07Z
-              stars: 9128
+              stars: 9139
               license: Apache License 2.0
               description: "\U0001F4AC Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants"
-              latest_commit_date: '2020-07-02T11:33:24Z'
-              latest_commit_link: /RasaHQ/rasa/commit/82e9ac66273582d7d8329cd84e261d506fcedc03
+              latest_commit_date: '2020-07-03T07:53:31Z'
+              latest_commit_link: /RasaHQ/rasa/commit/2813f98481d105b1de220dc7244be90c1f4d6bcb
               release_date: '2020-07-02T11:10:49Z'
               release_link: 'https://github.com/RasaHQ/rasa/releases'
-              contributors_count: 381
+              contributors_count: 382
               contributors_link: 'https://github.com/RasaHQ/rasa/graphs/contributors'
             repos:
               - url: 'https://github.com/RasaHQ/rasa'
-                stars: 9128
+                stars: 9139
             github_start_commit_data:
               start_commit_link: /RasaHQ/rasa/commit/62149893c83cfb907a8585a27c6e592da9c3eed0
               start_date: '2016-10-14T12:27:49Z'
@@ -8733,7 +8734,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-07-02T20:40:10.000Z
+              latest_tweet_date: 2020-07-03T12:11:13.000Z
           - item:
             name: spaCy
             homepage_url: 'https://spacy.io'
@@ -8781,20 +8782,20 @@ landscape:
                 - name: Shell
                   value: 614
                   color: '#89e051'
-              contributions: 52;38;33;24;22;12;43;42;18;61;80;14;118;23;8;39;53;17;6;33;9;3;11;5;8;5;10;7;2;3;6;14;13;24;15;19;17;25;12;20;20;6;28;4;18;48;26;22;17;23;13;13
+              contributions: 60;38;25;25;23;14;41;46;15;62;76;31;102;22;16;41;43;17;14;25;9;9;9;2;7;5;10;7;2;3;6;15;12;24;17;20;15;24;15;22;15;6;29;8;13;57;24;16;18;24;13;12
               firstWeek: 2019-07-07Z
-              stars: 16737
+              stars: 16745
               license: MIT License
               description: "\U0001F4AB Industrial-strength Natural Language Processing (NLP) with Python and Cython"
-              latest_commit_date: '2020-07-02T15:11:57Z'
-              latest_commit_link: /explosion/spaCy/commit/a77c4c3465d12f70fc2436b6d3def414082d77a9
+              latest_commit_date: '2020-07-03T11:38:41Z'
+              latest_commit_link: /explosion/spaCy/commit/86d13a9fb84cee2df56a998446d340207dfdbd5f
               release_date: '2020-06-16T14:25:22Z'
               release_link: 'https://github.com/explosion/spaCy/releases'
               contributors_count: 502
               contributors_link: 'https://github.com/explosion/spaCy/graphs/contributors'
             repos:
               - url: 'https://github.com/explosion/spaCy'
-                stars: 16737
+                stars: 16745
             github_start_commit_data:
               start_commit_link: /explosion/spaCy/commit/e3fad681c5cdf88c002016ffd7a069c5f320b5bf
               start_date: '2014-07-03T15:15:40Z'
@@ -8840,7 +8841,7 @@ landscape:
                 - name: Python
                   value: 6985
                   color: '#3572A5'
-              contributions: 0;3;4;4;6;5;2;0;0;3;0;0;0;0;7;5;4;0;0;0;3;1;1;0;0;0;6;1;1;0;0;0;2;3;8;4;3;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0
+              contributions: 0;3;7;1;6;5;2;0;2;1;0;0;0;1;6;6;3;0;0;3;0;1;1;0;0;0;6;1;1;0;0;0;2;3;11;1;4;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0
               firstWeek: 2019-07-07Z
               stars: 240
               license: Unknown License
@@ -8918,7 +8919,7 @@ landscape:
                 - name: CSS
                   value: 2738
                   color: '#563d7c'
-              contributions: 0;0;1;0;0;0;0;0;0;3;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;1;7;2;0;0;0;1;0;0;3;1;0;0;0;0;0;0;0;0;1;3;3;0
+              contributions: 0;0;1;0;0;0;0;0;0;3;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;2;6;2;0;0;0;1;0;1;3;0;0;0;0;0;0;0;0;1;1;4;1;0
               firstWeek: 2019-07-07Z
               stars: 989
               license: Apache License 2.0
@@ -9027,7 +9028,7 @@ landscape:
                 - name: sed
                   value: 1133
                   color: '#64b970'
-              contributions: 2;2;1;0;0;1;0;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;1;1
+              contributions: 2;2;1;0;0;1;0;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;1;0;1
               firstWeek: 2019-07-07Z
               stars: 1335
               license: Apache License 2.0
@@ -9084,7 +9085,7 @@ landscape:
                 - name: Shell
                   value: 24011
                   color: '#89e051'
-              contributions: 0;0;0;0;0;0;0;0;2;1;2;0;0;0;0;0;0;0;0;0;0;0;1;0;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              contributions: 0;0;0;0;0;0;0;1;1;3;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
               firstWeek: 2019-07-07Z
               stars: 264
               license: Apache License 2.0
@@ -9106,7 +9107,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-07-03T00:47:39.000Z
+              latest_tweet_date: 2020-07-03T17:42:55.000Z
           - item:
             name: Apache Mesos
             homepage_url: 'http://mesos.apache.org/'
@@ -9173,9 +9174,9 @@ landscape:
                 - name: Groovy
                   value: 1459
                   color: '#e69f56'
-              contributions: 23;51;28;39;22;28;23;31;21;19;27;11;6;25;5;20;6;6;24;2;13;12;4;4;1;3;28;8;16;17;2;6;1;13;14;5;1;11;6;11;7;15;7;12;4;8;2;13;2;0;1;1
+              contributions: 25;54;22;38;23;27;30;29;21;16;24;11;23;9;7;17;9;16;11;4;15;9;3;5;0;7;25;10;13;17;2;6;3;13;13;5;6;8;5;11;8;12;7;14;3;7;14;1;2;0;1;1
               firstWeek: 2019-07-07Z
-              stars: 4527
+              stars: 4528
               license: Apache License 2.0
               description: Apache Mesos
               latest_commit_date: '2020-06-30T19:29:28Z'
@@ -9184,7 +9185,7 @@ landscape:
               contributors_link: 'https://github.com/apache/mesos/graphs/contributors'
             repos:
               - url: 'https://github.com/apache/mesos'
-                stars: 4527
+                stars: 4528
             github_start_commit_data:
               start_commit_link: /apache/mesos/commit/54a6a53e5fc378aa13e75f6686202b3d427684da
               start_date: '2011-04-27T06:59:39Z'
@@ -9249,13 +9250,13 @@ landscape:
                 - name: C
                   value: 5370
                   color: '#555555'
-              contributions: 10;5;6;12;5;2;13;6;3;7;9;8;8;17;11;3;1;5;4;6;8;9;8;6;5;1;5;8;8;8;7;6;3;4;2;5;4;5;7;12;8;12;5;3;7;5;9;6;9;4;3;4
+              contributions: 12;4;7;10;6;6;8;7;3;8;10;6;8;17;10;3;1;5;7;6;5;10;10;5;4;0;5;9;7;9;6;6;4;3;3;4;7;2;7;15;9;9;4;3;8;5;10;5;8;5;4;3
               firstWeek: 2019-07-07Z
               stars: 379
               license: Apache License 2.0
               description: Mirror of Apache Ranger
-              latest_commit_date: '2020-07-02T04:58:20Z'
-              latest_commit_link: /apache/ranger/commit/de88e7973763b816655f99f917c4f28fe0ced40c
+              latest_commit_date: '2020-07-03T10:20:40Z'
+              latest_commit_link: /apache/ranger/commit/23b49c581dedea32bf8a03b503f9337530427521
               contributors_count: 108
               contributors_link: 'https://github.com/apache/ranger/graphs/contributors'
             repos:
@@ -9341,9 +9342,9 @@ landscape:
                 - name: Makefile
                   value: 1302
                   color: '#427819'
-              contributions: 29;5;5;11;4;5;17;6;9;3;1;3;1;8;9;5;9;8;3;10;1;1;3;5;0;4;13;3;4;4;4;9;1;8;2;4;9;7;6;9;8;8;5;7;7;2;2;11;9;3;6;11
+              contributions: 27;9;5;8;3;7;16;8;6;3;1;3;5;7;8;5;7;8;5;8;1;2;2;5;1;8;9;3;4;5;6;6;0;8;3;7;5;8;6;8;11;6;8;4;6;3;3;12;6;3;7;10
               firstWeek: 2019-07-07Z
-              stars: 6100
+              stars: 6102
               license: Other
               description: Mirror of Apache Storm
               latest_commit_date: '2020-07-02T18:07:36Z'
@@ -9352,7 +9353,7 @@ landscape:
               contributors_link: 'https://github.com/apache/storm/graphs/contributors'
             repos:
               - url: 'https://github.com/apache/storm'
-                stars: 6100
+                stars: 6102
             github_start_commit_data:
               start_commit_link: /apache/storm/commit/9edcf177ce7210d7ee7f857dedf0747e5bdb4105
               start_date: '2011-09-16T05:20:45Z'
@@ -9433,7 +9434,7 @@ landscape:
                 - name: Dockerfile
                   value: 4293
                   color: '#384d54'
-              contributions: 144;105;185;64;83;112;123;135;111;140;39;92;48;35;103;46;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              contributions: 151;125;185;52;85;109;135;121;125;105;47;111;21;56;84;44;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
               firstWeek: 2019-07-07Z
               stars: 1114
               license: Other
@@ -9449,7 +9450,7 @@ landscape:
               start_commit_link: /gnes-ai/gnes/commit/bd6b5b772ac4a4925bbfa91a1f1e2d0e998997a6
               start_date: '2019-02-18T02:22:53Z'
             yahoo_finance_data:
-              market_cap: 638462103950
+              market_cap: 646488282063
               effective_ticker: 0700.HK
             image_data:
               fileName: generic-neural-elastic-search-gnes.svg
@@ -9488,10 +9489,10 @@ landscape:
             github_data:
               languages:
                 - name: Go
-                  value: 51485149
+                  value: 51513951
                   color: '#00ADD8'
                 - name: Starlark
-                  value: 3902822
+                  value: 3903323
                 - name: Shell
                   value: 1633762
                   color: '#89e051'
@@ -9523,20 +9524,20 @@ landscape:
                   value: 38
                   color: '#e34c26'
               contributions: >-
-                256;251;243;333;293;306;287;429;205;242;184;247;198;284;307;291;258;356;420;157;188;198;206;216;146;123;267;281;197;181;165;272;196;244;249;144;167;240;224;172;189;195;178;156;212;221;163;181;194;173;197;173
+                286;238;263;324;287;303;339;411;159;233;201;244;212;301;275;305;251;395;406;106;187;221;210;211;135;126;296;260;197;173;202;264;171;252;272;96;187;254;213;164;187;214;171;144;220;203;186;175;189;193;178;169
               firstWeek: 2019-07-07Z
-              stars: 67664
+              stars: 67704
               license: Apache License 2.0
               description: Production-Grade Container Scheduling and Management
-              latest_commit_date: '2020-07-03T00:46:47Z'
-              latest_commit_link: /kubernetes/kubernetes/commit/6da40542e71e5c6df25ec0883b45afda48044d01
+              latest_commit_date: '2020-07-03T23:36:47Z'
+              latest_commit_link: /kubernetes/kubernetes/commit/faff3c5378c801eefa8f6bfcc4e988924979b5fb
               release_date: '2020-06-26T19:51:46Z'
               release_link: 'https://github.com/kubernetes/kubernetes/releases'
-              contributors_count: 3429
+              contributors_count: 3430
               contributors_link: 'https://github.com/kubernetes/kubernetes/graphs/contributors'
             repos:
               - url: 'https://github.com/kubernetes/kubernetes'
-                stars: 67664
+                stars: 67704
             github_start_commit_data:
               start_commit_link: /kubernetes/kubernetes/commit/2c4b3a562ce34cddc3f8218a2c4d11c7310e6d56
               start_date: '2014-06-06T23:40:48Z'
@@ -9547,7 +9548,7 @@ landscape:
               badge: 569
               percentage: 100
             twitter_data:
-              latest_tweet_date: 2020-07-02T16:07:05.000Z
+              latest_tweet_date: 2020-07-03T08:44:40.000Z
           - item:
             name: Nauta
             homepage_url: 'https://www.intel.com/content/www/us/en/artificial-intelligence/overview.html'
@@ -9842,7 +9843,7 @@ landscape:
                 - name: Lua
                   value: 702
                   color: '#000080'
-              contributions: 6;8;7;10;15;6;5;9;8;3;4;12;8;5;1;4;2;5;3;5;6;5;0;0;0;0;0;2;1;0;0;2;0;6;3;3;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              contributions: 7;6;8;13;14;3;5;10;7;3;5;12;9;3;2;4;1;5;3;7;5;4;0;0;0;0;0;2;1;0;1;1;2;4;3;3;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
               firstWeek: 2019-07-07Z
               stars: 385
               license: Apache License 2.0
@@ -9909,7 +9910,7 @@ landscape:
                   value: 4511
                   color: '#3572A5'
               contributions: >-
-                88;118;79;89;105;116;198;103;104;65;82;40;63;58;42;47;19;32;21;60;40;18;34;23;30;5;12;16;16;30;23;18;7;26;20;17;22;19;8;36;11;29;23;12;8;10;6;15;6;18;7;3
+                115;98;67;103;109;132;178;110;83;80;73;28;79;50;45;39;14;31;29;60;34;28;22;29;25;9;11;13;23;24;24;20;9;21;22;20;20;14;16;33;9;26;23;12;11;8;12;9;6;19;5;3
               firstWeek: 2019-07-07Z
               stars: 1667
               license: Other
@@ -10363,9 +10364,9 @@ landscape:
                   value: 836
                   color: '#427819'
               contributions: >-
-                169;81;76;12;48;74;43;32;90;65;4;19;36;16;0;0;38;44;58;18;26;50;58;89;3;0;40;90;99;90;81;41;154;111;128;115;62;31;64;71;53;85;67;93;84;99;150;86;129;42;21;0
+                171;89;65;10;57;65;55;41;91;43;13;10;36;16;0;0;45;45;54;18;22;78;37;85;0;0;41;112;78;101;85;24;203;72;152;82;77;20;62;82;52;87;94;57;89;109;133;116;121;16;21;0
               firstWeek: 2019-07-07Z
-              stars: 1577
+              stars: 1579
               license: MIT License
               description: 'Adversarial Robustness Toolbox (ART) - Python Library for Machine Learning Security - Evasion, Poisoning, Extraction, Inference'
               latest_commit_date: '2020-06-23T13:27:50Z'
@@ -10376,7 +10377,7 @@ landscape:
               contributors_link: 'https://github.com/IBM/adversarial-robustness-toolbox/graphs/contributors'
             repos:
               - url: 'https://github.com/IBM/adversarial-robustness-toolbox'
-                stars: 1577
+                stars: 1579
             github_start_commit_data:
               start_commit_link: /IBM/adversarial-robustness-toolbox/commit/1b832e5ff459da21f35efc65e4c4c74b1f2c9eb4
               start_date: '2017-05-09T12:41:50Z'
@@ -10434,7 +10435,7 @@ landscape:
                   color: '#384d54'
               contributions: 1;0;0;0;0;0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0
               firstWeek: 2019-07-07Z
-              stars: 242
+              stars: 243
               license: Other
               description: 'Bias and Fairness Audit Toolkit '
               latest_commit_date: '2020-06-09T19:55:22Z'
@@ -10443,7 +10444,7 @@ landscape:
               contributors_link: 'https://github.com/dssg/aequitas/graphs/contributors'
             repos:
               - url: 'https://github.com/dssg/aequitas'
-                stars: 242
+                stars: 243
             github_start_commit_data:
               start_commit_link: /dssg/aequitas/commit/291fc36020cd69522fdfdf7245aaf39d2e98895f
               start_date: '2018-02-13T19:54:12Z'
@@ -10869,9 +10870,9 @@ landscape:
                 - name: R
                   value: 1877
                   color: '#198CE7'
-              contributions: 2;0;4;0;107;6;4;4;1;1;14;0;5;0;37;4;0;0;0;5;0;0;12;0;0;0;0;0;5;4;4;5;0;0;7;8;3;2;0;22;0;0;0;0;0;1;3;0;1;2;0;0
+              contributions: 2;0;4;0;109;6;5;1;1;1;14;0;5;0;41;0;0;0;0;5;0;3;9;0;0;0;0;0;6;3;4;5;0;0;7;8;3;2;0;22;0;0;0;0;0;4;0;0;1;2;0;0
               firstWeek: 2019-07-07Z
-              stars: 583
+              stars: 582
               license: Apache License 2.0
               description: Interpretability and explainability of data and machine learning models
               latest_commit_date: '2020-06-17T08:56:13Z'
@@ -10882,7 +10883,7 @@ landscape:
               contributors_link: 'https://github.com/ibm/aix360/graphs/contributors'
             repos:
               - url: 'https://github.com/ibm/aix360'
-                stars: 583
+                stars: 582
             github_start_commit_data:
               start_commit_link: /IBM/AIX360/commit/272f92eb653c9269d8f5e6a1ea60fa887610774e
               start_date: '2019-07-11T07:17:49Z'
@@ -11317,9 +11318,9 @@ landscape:
                 - name: Dockerfile
                   value: 190
                   color: '#384d54'
-              contributions: 2;2;0;1;2;2;0;0;5;3;1;0;3;1;0;0;11;0;12;3;3;0;1;10;1;2;2;1;0;0;5;2;3;0;1;9;0;0;1;1;0;0;1;0;1;1;1;2;1;2;9;4
+              contributions: 2;2;0;3;0;2;0;5;2;1;1;0;4;0;0;0;11;6;8;1;3;0;5;7;0;2;2;1;0;2;3;2;3;0;3;7;0;0;2;0;0;0;1;0;1;1;1;2;1;2;11;2
               firstWeek: 2019-07-07Z
-              stars: 987
+              stars: 990
               license: Apache License 2.0
               description: >-
                 A comprehensive set of fairness metrics for datasets and machine learning models, explanations for these metrics, and algorithms to mitigate
@@ -11332,7 +11333,7 @@ landscape:
               contributors_link: 'https://github.com/IBM/AIF360/graphs/contributors'
             repos:
               - url: 'https://github.com/IBM/AIF360'
-                stars: 987
+                stars: 990
             github_start_commit_data:
               start_commit_link: /IBM/AIF360/commit/546d35091200aeb6ea3968aa922881840f29b4be
               start_date: '2018-08-22T20:47:17Z'
@@ -11376,7 +11377,7 @@ landscape:
                 - name: Makefile
                   value: 834
                   color: '#427819'
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1;3;1;0;0;0;0;0;0;0;0;0;0;0;0;1;3;0;0;0;0;0;0;1;0;0
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1;3;1;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0;0;0;0;0;0;1;0;0
               firstWeek: 2019-07-07Z
               stars: 218
               license: MIT License
@@ -11430,9 +11431,9 @@ landscape:
                 - name: Dockerfile
                   value: 242
                   color: '#384d54'
-              contributions: 4;3;1;1;2;0;0;1;0;1;0;0;9;3;1;1;5;0;0;0;0;3;0;1;0;0;0;0;1;0;0;0;0;1;0;0;3;0;0;0;0;0;0;3;2;0;0;0;0;0;0;0
+              contributions: 5;3;1;2;0;0;0;1;0;1;0;0;12;1;1;0;5;0;0;0;0;3;0;1;0;0;0;0;1;0;0;0;0;1;0;0;3;0;0;0;0;0;0;3;2;0;0;0;0;0;0;0
               firstWeek: 2019-07-07Z
-              stars: 4614
+              stars: 4615
               license: MIT License
               description: 'An adversarial example library for constructing attacks, building defenses, and benchmarking both'
               latest_commit_date: '2020-05-12T19:34:24Z'
@@ -11443,7 +11444,7 @@ landscape:
               contributors_link: 'https://github.com/tensorflow/cleverhans/graphs/contributors'
             repos:
               - url: 'https://github.com/tensorflow/cleverhans'
-                stars: 4614
+                stars: 4615
             github_start_commit_data:
               start_commit_link: /tensorflow/cleverhans/commit/09ac26f6ce3825139a09f0c7294312f239965799
               start_date: '2016-09-15T00:28:05Z'
@@ -11477,7 +11478,7 @@ landscape:
             github_data:
               languages:
                 - name: Python
-                  value: 327745
+                  value: 327758
                   color: '#3572A5'
                 - name: Makefile
                   value: 2670
@@ -11485,20 +11486,20 @@ landscape:
                 - name: JavaScript
                   value: 668
                   color: '#f1e05a'
-              contributions: 2;20;18;5;0;0;0;30;1;1;1;0;1;0;33;67;115;11;0;4;0;0;10;4;3;0;3;52;6;62;58;165;65;24;2;0;2;26;2;2;0;0;0;0;0;0;7;0;0;1;1;0
+              contributions: 4;21;13;5;0;0;2;29;1;1;0;0;1;0;64;67;84;11;0;4;0;0;10;7;0;3;21;37;0;62;96;151;55;10;2;0;2;26;2;2;0;0;0;0;0;0;7;0;0;2;0;3
               firstWeek: 2019-07-07Z
-              stars: 1497
+              stars: 1498
               license: Unknown License
               description: 'A Python toolbox to create adversarial examples that fool neural networks in PyTorch, TensorFlow, and JAX'
-              latest_commit_date: '2020-06-19T09:14:54Z'
-              latest_commit_link: /bethgelab/foolbox/commit/9583dd317fa6f5c44987ce48c01f5ad19d0db945
-              release_date: '2020-05-23T14:35:57Z'
+              latest_commit_date: '2020-07-03T13:56:10Z'
+              latest_commit_link: /bethgelab/foolbox/commit/94df1e7af28947fca190f25279475468d45ac00d
+              release_date: '2020-07-03T13:56:48Z'
               release_link: 'https://github.com/bethgelab/foolbox/releases'
               contributors_count: 28
               contributors_link: 'https://github.com/bethgelab/foolbox/graphs/contributors'
             repos:
               - url: 'https://github.com/bethgelab/foolbox'
-                stars: 1497
+                stars: 1498
             github_start_commit_data:
               start_commit_link: /bethgelab/foolbox/commit/91667e13606764db2fcb37544ee1715bc15f70a7
               start_date: '2017-06-04T21:18:06Z'
@@ -12059,9 +12060,9 @@ landscape:
                 - name: Batchfile
                   value: 4457
                   color: '#C1F12E'
-              contributions: 35;22;25;37;66;99;46;9;1;1;49;33;1;34;20;4;20;42;17;9;25;7;29;10;4;11;0;2;26;6;12;29;14;7;0;0;0;10;14;0;1;1;10;4;0;3;1;0;0;0;0;0
+              contributions: 44;16;25;43;66;106;33;7;0;14;36;33;3;32;20;24;1;44;18;5;25;9;31;6;5;10;0;2;29;3;21;21;16;4;0;0;0;13;11;0;1;1;10;4;0;3;1;0;0;0;0;0
               firstWeek: 2019-07-07Z
-              stars: 2811
+              stars: 2813
               license: MIT License
               description: 'Fit interpretable models. Explain blackbox machine learning. '
               latest_commit_date: '2020-05-24T07:44:28Z'
@@ -12072,7 +12073,7 @@ landscape:
               contributors_link: 'https://github.com/interpretml/interpret/graphs/contributors'
             repos:
               - url: 'https://github.com/interpretml/interpret'
-                stars: 2811
+                stars: 2813
             github_start_commit_data:
               start_commit_link: /microsoft/interpret/commit/b31e591bf25d13907e2208bd5fd109c3bf9e5608
               start_date: '2019-05-03T05:47:53Z'
@@ -12125,9 +12126,9 @@ landscape:
                 - name: HTML
                   value: 387
                   color: '#e34c26'
-              contributions: 2;0;2;1;0;1;0;0;2;1;2;0;0;0;0;0;1;1;0;0;0;0;0;0;5;0;0;0;0;0;0;0;0;0;1;1;0;0;4;9;0;0;0;0;0;0;0;0;0;0;0;6
+              contributions: 0;0;2;1;0;1;0;0;2;3;0;0;0;0;0;0;1;1;0;0;0;0;0;4;1;0;0;0;0;0;0;0;0;0;2;0;0;0;13;0;0;0;0;0;0;0;0;0;0;0;4;2
               firstWeek: 2019-07-07Z
-              stars: 7646
+              stars: 7648
               license: BSD 2-Clause "Simplified" License
               description: 'Lime: Explaining the predictions of any machine learning classifier'
               latest_commit_date: '2020-07-02T20:59:54Z'
@@ -12138,7 +12139,7 @@ landscape:
               contributors_link: 'https://github.com/marcotcr/lime/graphs/contributors'
             repos:
               - url: 'https://github.com/marcotcr/lime'
-                stars: 7646
+                stars: 7648
             github_start_commit_data:
               start_commit_link: /marcotcr/lime/commit/b7af2f68af993afa2c5d646f313131aaa39edc70
               start_date: '2016-03-15T22:18:10Z'
@@ -12715,7 +12716,7 @@ landscape:
                 - name: Shell
                   value: 2438
                   color: '#89e051'
-              contributions: 5;0;0;4;4;0;1;1;14;0;4;7;11;12;5;1;5;7;0;0;0;1;0;2;0;0;0;2;0;3;2;0;5;2;2;0;0;3;17;0;1;0;3;0;0;3;0;0;0;0;0;0
+              contributions: 5;0;2;2;4;0;2;0;14;0;4;7;11;12;5;6;0;7;0;0;0;1;0;2;0;0;0;2;0;5;0;0;6;1;2;0;0;3;17;0;1;0;3;0;2;1;0;0;0;0;0;0
               firstWeek: 2019-07-07Z
               stars: 3774
               license: Apache License 2.0
@@ -12733,7 +12734,7 @@ landscape:
               start_commit_link: /tensorflow/lucid/commit/7678935a67cb405e379d6b97fbf3fe3104560703
               start_date: '2018-01-25T19:28:36Z'
             yahoo_finance_data:
-              market_cap: 1001230827520
+              market_cap: 1001645342720
               effective_ticker: GOOG
             image_data:
               fileName: lucid.svg
@@ -12817,9 +12818,9 @@ landscape:
                 - name: XSLT
                   value: 1326
                   color: '#EB8CEB'
-              contributions: 11;5;3;6;2;2;4;2;4;4;13;5;8;6;7;4;7;7;9;5;6;10;13;8;11;10;13;13;10;2;7;13;18;12;13;17;10;8;20;12;10;11;8;9;8;4;4;6;13;11;14;11
+              contributions: 7;5;4;4;3;2;4;1;4;4;13;7;7;5;7;4;9;7;8;4;8;9;16;7;10;10;11;14;11;0;9;19;13;14;12;14;11;9;17;15;7;12;8;10;7;3;4;9;11;12;14;9
               firstWeek: 2019-07-07Z
-              stars: 4783
+              stars: 4786
               license: Apache License 2.0
               description: 'Web-based notebook that enables data-driven, interactive data analytics and collaborative documents with SQL, Scala and more.'
               latest_commit_date: '2020-07-02T17:49:13Z'
@@ -12828,7 +12829,7 @@ landscape:
               contributors_link: 'https://github.com/apache/zeppelin/graphs/contributors'
             repos:
               - url: 'https://github.com/apache/zeppelin'
-                stars: 4783
+                stars: 4786
             github_start_commit_data:
               start_commit_link: /apache/zeppelin/commit/ec716cf6e8725dc456db42d11a1972aa78d9de91
               start_date: '2013-06-19T04:40:59Z'
@@ -12899,7 +12900,7 @@ landscape:
                 - name: Batchfile
                   value: 144
                   color: '#C1F12E'
-              contributions: 3;0;3;3;3;2;3;0;0;2;3;4;3;4;0;3;3;2;9;0;0;0;2;0;0;0;0;0;0;8;2;4;0;0;0;0;7;0;0;4;2;1;0;1;2;0;0;0;0;0;0;0
+              contributions: 3;0;3;3;4;1;3;0;2;0;3;4;3;4;3;0;3;11;0;0;0;0;2;0;0;0;0;0;0;8;6;0;0;0;0;0;7;0;1;3;3;0;0;3;0;0;0;0;0;0;0;0
               firstWeek: 2019-07-07Z
               stars: 2423
               license: Apache License 2.0
@@ -13488,7 +13489,7 @@ landscape:
                 - name: Dockerfile
                   value: 1288
                   color: '#384d54'
-              contributions: 1;3;9;4;1;1;3;5;2;2;2;6;3;4;1;2;2;0;2;3;0;0;4;2;0;0;1;0;0;1;3;4;1;2;3;3;0;6;3;2;4;3;2;3;1;4;2;2;2;6;2;2
+              contributions: 1;5;9;2;2;0;4;4;2;2;2;6;4;3;1;2;2;2;0;3;0;1;4;1;0;0;1;0;1;0;3;5;1;2;2;3;3;3;3;2;5;2;2;3;2;3;3;1;4;4;3;1
               firstWeek: 2019-07-07Z
               stars: 914
               license: Apache License 2.0
@@ -13504,7 +13505,7 @@ landscape:
               start_commit_link: /googlecolab/colabtools/commit/e70295fa60961fc972d15d61e5550286ca096209
               start_date: '2017-11-10T18:21:22Z'
             yahoo_finance_data:
-              market_cap: 1001230827520
+              market_cap: 1001645342720
               effective_ticker: GOOG
             image_data:
               fileName: colaboratory.svg
@@ -13550,9 +13551,9 @@ landscape:
                 - name: Batchfile
                   value: 425
                   color: '#C1F12E'
-              contributions: 4;3;10;7;0;6;10;0;8;2;3;1;0;2;4;13;7;5;14;21;18;53;18;24;11;25;6;9;14;5;18;14;6;38;13;10;2;5;9;1;10;29;1;18;23;11;17;21;18;12;4;14
+              contributions: 4;3;14;3;1;5;10;5;3;2;3;1;0;4;3;17;3;4;14;24;15;54;23;22;22;10;6;9;15;13;11;14;14;31;16;4;4;4;9;2;10;27;5;19;18;12;27;15;13;15;7;9
               firstWeek: 2019-07-07Z
-              stars: 14245
+              stars: 14247
               license: Other
               description: 'Official repository for IPython itself. Other repos in the IPython organization contain things like the website, documentation builds, etc.'
               latest_commit_date: '2020-07-03T00:17:16Z'
@@ -13563,7 +13564,7 @@ landscape:
               contributors_link: 'https://github.com/ipython/ipython/graphs/contributors'
             repos:
               - url: 'https://github.com/ipython/ipython'
-                stars: 14245
+                stars: 14247
             github_start_commit_data:
               start_commit_link: /ipython/ipython/commit/6f629fcc23ba63342548f61cc7307eeef4f55799
               start_date: '2005-07-06T17:52:32Z'
@@ -13616,9 +13617,9 @@ landscape:
                 - name: Shell
                   value: 752
                   color: '#89e051'
-              contributions: 14;8;1;1;2;0;3;0;3;2;4;1;7;4;0;5;8;6;13;1;15;4;3;1;0;0;3;0;7;2;1;1;0;0;0;2;0;3;9;20;2;0;15;9;8;21;11;16;12;2;6;2
+              contributions: 18;4;2;0;2;0;3;0;3;2;4;1;7;4;1;4;8;12;8;1;16;2;3;1;0;0;3;0;7;3;0;1;0;0;0;2;2;2;8;20;2;0;15;9;13;19;9;16;12;3;4;2
               firstWeek: 2019-07-07Z
-              stars: 7300
+              stars: 7302
               license: Other
               description: Jupyter Interactive Notebook
               latest_commit_date: '2020-07-01T16:55:30Z'
@@ -13629,7 +13630,7 @@ landscape:
               contributors_link: 'https://github.com/jupyter/notebook/graphs/contributors'
             repos:
               - url: 'https://github.com/jupyter/notebook'
-                stars: 7300
+                stars: 7302
             github_start_commit_data:
               start_commit_link: /jupyter/notebook/commit/ad18848364e5e4073f80b03c64b6fa4bc1dcfbda
               start_date: '2005-07-06T17:52:32Z'
@@ -14882,7 +14883,7 @@ landscape:
               stockExchange: nasdaq
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 1001230827520
+              market_cap: 1001645342720
               effective_ticker: GOOG
             image_data:
               fileName: google-llc.svg
@@ -14891,7 +14892,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-07-02T17:32:37.000Z
+              latest_tweet_date: 2020-07-03T20:46:20.000Z
           - item:
             name: HERE Global B.V.
             homepage_url: 'https://www.here.com/'
@@ -14931,7 +14932,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-07-02T22:54:01.000Z
+              latest_tweet_date: 2020-07-03T18:20:01.000Z
           - item:
             name: 'Uber Technologies, Inc.'
             homepage_url: 'https://www.uber.com/hk/zh-hk'
@@ -14986,7 +14987,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-07-03T01:12:07.000Z
+              latest_tweet_date: 2020-07-03T16:16:38.000Z
 twitter_options:
   count: 0
-updated_at: 2020-07-03T01:49:59.447Z
+updated_at: 2020-07-04T01:48:42.933Z
