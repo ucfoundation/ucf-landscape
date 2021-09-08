@@ -57,7 +57,7 @@ relation:
       label: Non-ucf Member Products/Projects
       url: 'no'
 membership:
-  Premium:
+  Premier:
     name: UCF
     label: Premier Member
     funding: Premier
@@ -130,20 +130,11 @@ big_picture:
       - type: HorizontalCategory
         category: Location Data
         rows: 3
-        width: 125
+        width: 270
         height: 160
         top: 0
         left: 845
         color: rgb(19,105,73)
-        fit_width: true
-      - type: HorizontalCategory
-        category: Data Exchange File Formats and Specifications
-        rows: 4
-        width: 125
-        height: 160
-        top: 0
-        left: 990
-        color: rgb(79,121,13)
         fit_width: true
       - type: HorizontalCategory
         category: Data Acquisition, Sensors, and IoT
@@ -157,16 +148,25 @@ big_picture:
       - type: HorizontalCategory
         category: GIS and Data Analysis
         rows: 3
-        width: 795
+        width: 300
         height: 160
         top: 190
         left: 320
         color: rgb(87,43,10)
         fit_width: true
       - type: HorizontalCategory
+        category: Data Exchange File Formats and Specs
+        rows: 4
+        width: 475
+        height: 160
+        top: 190
+        left: 640
+        color: rgb(79,121,13)
+        fit_width: true
+      - type: HorizontalCategory
         category: GIS Infrastructure
         rows: 4
-        width: 155
+        width: 300
         height: 160
         top: 380
         left: 0
@@ -175,19 +175,19 @@ big_picture:
       - type: HorizontalCategory
         category: Geospatial Data Transformation
         rows: 4
-        width: 200
+        width: 475
         height: 160
         top: 380
-        left: 175
+        left: 320
         color: rgb(185,33,66)
         fit_width: true
       - type: HorizontalCategory
         category: Geospatial Data Portals
         rows: 4
-        width: 720
+        width: 300
         height: 160
         top: 380
-        left: 395
+        left: 815
         color: rgb(111,12,52)
         fit_width: true
       - type: HorizontalCategory
